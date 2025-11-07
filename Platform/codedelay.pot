@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,30 +16,30 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Platform/source/codedelay.md:1
+#: ../../../Workspace/scanner-document/Platform/source/codedelay.md:1
 msgid "Same Code Delay Settings"
 msgstr ""
 
-#: ../../Manual/Platform/source/codedelay.md:2
+#: ../../../Workspace/scanner-document/Platform/source/codedelay.md:2
 msgid "To prevent the same barcode from being read multiple times in a row during scanning, you can set a time limit before allowing the same barcode to be read."
 msgstr ""
 
-#: ../../Manual/Platform/source/codedelay.md:4
-#: ../../Manual/Platform/source/codedelay.md:10
+#: ../../../Workspace/scanner-document/Platform/source/codedelay.md:4
+#: ../../../Workspace/scanner-document/Platform/source/codedelay.md:10
 msgid "0ms"
 msgstr ""
 
-#: ../../Manual/Platform/source/codedelay.md:13
-#: ../../Manual/Platform/source/codedelay.md:19
+#: ../../../Workspace/scanner-document/Platform/source/codedelay.md:13
+#: ../../../Workspace/scanner-document/Platform/source/codedelay.md:19
 msgid "500ms"
 msgstr ""
 
-#: ../../Manual/Platform/source/codedelay.md:22
-#: ../../Manual/Platform/source/codedelay.md:28
+#: ../../../Workspace/scanner-document/Platform/source/codedelay.md:22
+#: ../../../Workspace/scanner-document/Platform/source/codedelay.md:28
 msgid "3000ms"
 msgstr ""
 
-#: ../../Manual/Platform/source/codedelay.md:31
-#: ../../Manual/Platform/source/codedelay.md:37
+#: ../../../Workspace/scanner-document/Platform/source/codedelay.md:31
+#: ../../../Workspace/scanner-document/Platform/source/codedelay.md:37
 msgid "Disable Same Code Scanning"
 msgstr ""

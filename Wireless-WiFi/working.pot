@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,82 +16,82 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless-WiFi/source/working.md:1
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:1
 msgid "Working Mode"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:2
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:2
 msgid "In the working area outside the range of the 2.4G receiver or Bluetooth signal, you can activate the storage mode of the scanner by following the steps described below. In this mode, all scanned data will be stored directly in the scanner. Before uploading the data, it will be permanently saved in the scanner so that you can upload the data when the scanner is in the receiving signal range."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:5
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:5
 msgid "Normal Mode"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:10
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:10
 msgid "`*` Normal Mode"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:14
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:14
 msgid "Set to normal mode, and data will be uploaded immediately after scanning."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:16
-#: ../../Manual/Wireless-WiFi/source/working.md:22
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:16
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:22
 msgid "Storage Mode"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:26
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:26
 msgid "Set the storage mode. After a successful scan, the data will not be uploaded immediately, but will be stored in the scanner."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:29
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:29
 msgid "Data Upload[^1]"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:35
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:35
 msgid "Data Upload"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:39
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:39
 msgid "Upload the data stored in the scanner."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:42
-#: ../../Manual/Wireless-WiFi/source/working.md:48
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:42
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:48
 msgid "Total Storage Quantity"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:52
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:52
 msgid "Check how many pieces of data are stored."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:54
-#: ../../Manual/Wireless-WiFi/source/working.md:60
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:54
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:60
 msgid "Clear Stored Barcode"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:64
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:64
 msgid "Clear the data stored in the scanner."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:66
-#: ../../Manual/Wireless-WiFi/source/working.md:72
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:66
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:72
 msgid "Disable Automatic Storage Mode"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:75
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:75
 msgid "Enable Automatic Storage Mode[^2]"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:83
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:83
 msgid "Enable Automatic Storage Mode"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:30
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:30
 msgid "During data uploading, scanning the \"Data Upload\" command again will cancel/stop data uploading."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/working.md:77
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/working.md:77
 msgid "In wireless transmission mode, when the automatic storage mode is turned on, the barcode will be automatically stored when the transmission fails, and the stored data can be obtained through \"Data Upload\"."
 msgstr ""

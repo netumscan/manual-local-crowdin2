@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,73 +16,73 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Reader/source/prompts.md:1
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:1
 msgid "Voice Prompts"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:3
-#: ../../Manual/Reader/source/prompts.md:9
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:3
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:9
 msgid "Start Setup"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:13
-#: ../../Manual/Reader/source/prompts.md:101
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:13
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:101
 msgid "Only after scanning [Start Setup](#start-setup) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup) for the corresponding configuration to take effect."
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:16
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:16
 msgid "Enable Voice Prompts"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:22
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:22
 msgid "`*` Enable Voice Prompts"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:25
-#: ../../Manual/Reader/source/prompts.md:31
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:25
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:31
 msgid "Disable Voice Prompts"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:34
-#: ../../Manual/Reader/source/prompts.md:40
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:34
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:40
 msgid "Disable Payment Voice"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:43
-#: ../../Manual/Reader/source/prompts.md:49
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:43
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:49
 msgid "Ding Dong"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:52
-#: ../../Manual/Reader/source/prompts.md:58
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:52
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:58
 msgid "Scan Code Successfully"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:61
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:61
 msgid "Payment Success Voice Solution 1"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:67
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:67
 msgid "Payment successful, please wait<br>Ding Dong"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:70
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:70
 msgid "Payment Success Voice Solution 2"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:76
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:76
 msgid "WeChat payment successful<br>Alipay payment successful<br>UnionPay  payment successful<br>Scan Successfully"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:79
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:79
 msgid "Welcome Use Voice Solution"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:85
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:85
 msgid "Welcome to WeChat Pay<br>Welcome to Alipay<br>Welcome to UnionPay<br> Ding Dong"
 msgstr ""
 
-#: ../../Manual/Reader/source/prompts.md:91
-#: ../../Manual/Reader/source/prompts.md:97
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:91
+#: ../../../Workspace/scanner-document/Reader/source/prompts.md:97
 msgid "End Setup"
 msgstr ""

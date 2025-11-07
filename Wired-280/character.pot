@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-21 08:49+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,47 +16,47 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-280/source/character.md:1
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:1
 msgid "Terminator"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:3
-#: ../../Manual/Wired-280/source/character.md:12
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:3
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:12
 msgid "Start Setup"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:5
-#: ../../Manual/Wired-280/source/character.md:50
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:5
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:50
 msgid "Only after scanning [Start Setup](#start-setup-figure) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup-figure) for the corresponding configuration to take effect."
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:15
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:15
 msgid "End Character Settings"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:16
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:16
 msgid "The end character is added after the decoded data in the format of decoded data + end character."
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:19
-#: ../../Manual/Wired-280/source/character.md:25
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:19
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:25
 msgid "No End Character"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:29
-#: ../../Manual/Wired-280/source/character.md:35
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:29
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:35
 msgid "Enter+New Line(CRLF)"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:39
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:39
 msgid "Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:45
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:45
 msgid "`*` Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/character.md:48
-#: ../../Manual/Wired-280/source/character.md:58
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:48
+#: ../../../Workspace/scanner-document/Wired-280/source/character.md:58
 msgid "End Setup"
 msgstr ""

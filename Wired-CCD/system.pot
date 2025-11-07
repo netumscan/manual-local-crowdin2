@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,51 +16,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-CCD/source/system.md:1
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:1
 msgid "System Settings"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/system.md:3
-#: ../../Manual/Wired-CCD/source/system.md:10
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:3
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:10
 msgid "Restore Default Settings"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/system.md:4
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:4
 msgid "When an unknown error occurs on the scanner, you can reset the scanner by restoring the default settings."
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/system.md:13
-#: ../../Manual/Wired-CCD/source/system.md:18
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:13
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:18
 msgid "Get Firmware Version"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/system.md:21
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:21
 msgid "Volume Settings"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/system.md:22
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:22
 msgid "Scan the corresponding setting code to turn on/off the sound prompt of the scanner"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/system.md:24
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:24
 msgid "Enable"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/system.md:29
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:29
 msgid "`*` Enable"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/system.md:32
-#: ../../Manual/Wired-CCD/source/system.md:37
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:32
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:37
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/system.md:40
-#: ../../Manual/Wired-CCD/source/system.md:46
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:40
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:46
 msgid "Medium Volume"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/system.md:49
-#: ../../Manual/Wired-CCD/source/system.md:54
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:49
+#: ../../../Workspace/scanner-document/Wired-CCD/source/system.md:54
 msgid "Low Volume"
 msgstr ""

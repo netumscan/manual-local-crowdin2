@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-21 10:48+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,79 +16,79 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless/source/faq.md:1
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:1
 msgid "FAQ"
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:3
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:3
 msgid "Question 1: The scan is successful, the buzzer sounds once, but no data is uploaded?"
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:4
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:4
 msgid "**Answer:** The scanner has entered storage mode and needs to scan [Normal Mode](working.md#normal-mode) to recover."
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:6
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:6
 msgid "Question 2:The scanner scans successfully, beeps twice, and can upload data normally. What is going on?"
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:7
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:7
 msgid "**Answer:** The battery of the scanner gun is low and it prompts that it needs to be recharged."
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:9
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:9
 msgid "Question 3:The scanner scans successfully, beeps three times, and fails to upload data. How can I solve this problem?"
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:10
-#: ../../Manual/Wireless/source/faq.md:24
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:10
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:24
 msgid "**Answer:**"
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:11
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:11
 msgid "Wireless Mode"
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:12
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:12
 msgid "Unplug the receiver and scan the [pairing code](wireless.md#one-to-one-pairing)."
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:13
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:13
 msgid "The scanner emits a continuous beeping sound, and then reinsert the receiver."
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:14
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:14
 msgid "The beeping stops immediately, indicating that pairing is successful."
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:15
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:15
 msgid "Bluetooth Mode"
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:16
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:16
 msgid "Scan for [Bluetooth HID mode](bluetooth.md#bluetooth-hid)."
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:17
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:17
 msgid "Search for the scanner again on the device to pair it."
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:20
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:20
 msgid "Question 4:The scanner beeps five times when a button is pressed. How can I solve this problem?"
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:21
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:21
 msgid "**Answer:** The battery is low and needs to be charged before it can be used again."
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:23
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:23
 msgid "Question 5:Scan successful, uploaded data incorrect?"
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:25
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:25
 msgid "The Chinese input method needs to be switched to the English input method"
 msgstr ""
 
-#: ../../Manual/Wireless/source/faq.md:26
+#: ../../../Workspace/scanner-document/Wireless/source/faq.md:26
 msgid "Scan Instructions US Language Setting"
 msgstr ""

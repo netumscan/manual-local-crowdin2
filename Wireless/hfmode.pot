@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-21 10:48+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,74 +16,74 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless/source/hfmode.md:1
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:1
 msgid "HF Setting"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:2
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:2
 msgid "Module Selection"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:8
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:8
 msgid "2D Module Only"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:16
-#: ../../Manual/Wireless/source/hfmode.md:50
-#: ../../Manual/Wireless/source/hfmode.md:57
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:16
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:50
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:57
 msgid "2D&RFID Module"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:19
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:19
 msgid "Output Format"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:20
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:20
 msgid "ASCII"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:26
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:26
 msgid "`*` ASCII"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:29
-#: ../../Manual/Wireless/source/hfmode.md:35
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:29
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:35
 msgid "ASCII (LSB first)"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:37
-#: ../../Manual/Wireless/source/hfmode.md:43
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:37
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:43
 msgid "Original (Hex)"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:45
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:45
 msgid "Decimal (MSB first)"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:52
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:52
 msgid "Decimal (LSB first)"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:61
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:61
 msgid "For example, the output is E0:00:12:34"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:62
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:62
 msgid "ASCII : E0001234"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:63
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:63
 msgid "ASCII (LSB first):  341200E0"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:64
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:64
 msgid "Original (Hex) : 0xE0,0x00,0x12,0x34"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:65
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:65
 msgid "Decimal (MSB first): HEX2DEC(0xE0001234) = 3758101044"
 msgstr ""
 
-#: ../../Manual/Wireless/source/hfmode.md:66
+#: ../../../Workspace/scanner-document/Wireless/source/hfmode.md:66
 msgid "Decimal (LSB first):  HEX2DEC(0x341200E0) = 0873595104"
 msgstr ""

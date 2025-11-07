@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-21 15:51+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,58 +16,58 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless/source/wireless.md:1
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:1
 msgid "Wireless Mode"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wireless.md:3
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:3
 msgid "This mode uses the 2.4GHz frequency band for data transmission and relies on radio frequency (RF) technology, which connects to the computer via a USB receiver and allows the scanner to move freely within a certain distance."
 msgstr ""
 
-#: ../../Manual/Wireless/source/wireless.md:11
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:11
 msgid "`*` Wireless Mode"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wireless.md:17
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:17
 msgid "Receivers are divided into small receivers and base receivers"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wireless.md:20
-#: ../../Manual/Wireless/source/wireless.md:25
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:20
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:25
 msgid "One-to-One Pairing"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wireless.md:29
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:29
 msgid "It works in the following situations: pull out the receiver, scan the pairing code on it, and the scanner will make a continuous beeping sound. At this time, re-insert the receiver, and the sound will stop immediately, indicating that the pairing is successful.   This operation is required in the following situations:   ① Plug the 2.4G receiver into the USB port. After scanning successfully, it will beep three times but will not upload data.   ② Requires pairing with a new receiver."
 msgstr ""
 
-#: ../../Manual/Wireless/source/wireless.md:36
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:36
 msgid "Receiver Keyboard Transmission Speed[^1]"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wireless.md:44
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:44
 msgid "Get Receiver Keyboard Transmission Speed[^2]"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wireless.md:48
-#: ../../Manual/Wireless/source/wireless.md:55
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:48
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:55
 msgid "High Speed"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wireless.md:59
-#: ../../Manual/Wireless/source/wireless.md:65
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:59
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:65
 msgid "Medium Speed"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wireless.md:68
-#: ../../Manual/Wireless/source/wireless.md:74
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:68
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:74
 msgid "Low Speed"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wireless.md:38
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:38
 msgid "Only applicable to RF Dongle with FWVerL and above versions. Note that the speed of the scanner and the receiver must match, otherwise errors may occur when transmitting long barcodes."
 msgstr ""
 
-#: ../../Manual/Wireless/source/wireless.md:46
+#: ../../../Workspace/scanner-document/Wireless/source/wireless.md:46
 msgid "It is only valid in wireless 2.4G mode and when the receiving end is receiving normally."
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,68 +16,68 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-280/source/keyboard.md:1
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:1
 msgid "Keyboard Settings"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/keyboard.md:2
-#: ../../Manual/Wired-280/source/keyboard.md:11
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:2
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:11
 msgid "Start Setup"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/keyboard.md:4
-#: ../../Manual/Wired-280/source/keyboard.md:98
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:4
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:98
 msgid "Only after scanning [Start Setup](#start-setup-figure) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup-figure) for the corresponding configuration to take effect."
 msgstr ""
 
-#: ../../Manual/Wired-280/source/keyboard.md:14
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:14
 msgid "Keyboard Language"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/keyboard.md:16
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:16
 msgid "America"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/keyboard.md:23
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:23
 msgid "`*` America"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/keyboard.md:26
-#: ../../Manual/Wired-280/source/keyboard.md:32
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:26
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:32
 msgid "Britain"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/keyboard.md:35
-#: ../../Manual/Wired-280/source/keyboard.md:41
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:35
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:41
 msgid "France"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/keyboard.md:45
-#: ../../Manual/Wired-280/source/keyboard.md:51
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:45
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:51
 msgid "Germany"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/keyboard.md:55
-#: ../../Manual/Wired-280/source/keyboard.md:61
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:55
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:61
 msgid "Italy"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/keyboard.md:65
-#: ../../Manual/Wired-280/source/keyboard.md:71
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:65
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:71
 msgid "Portugal"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/keyboard.md:75
-#: ../../Manual/Wired-280/source/keyboard.md:81
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:75
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:81
 msgid "Spain"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/keyboard.md:86
-#: ../../Manual/Wired-280/source/keyboard.md:92
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:86
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:92
 msgid "Turkey-Q"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/keyboard.md:96
-#: ../../Manual/Wired-280/source/keyboard.md:106
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:96
+#: ../../../Workspace/scanner-document/Wired-280/source/keyboard.md:106
 msgid "End Setup"
 msgstr ""

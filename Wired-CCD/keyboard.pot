@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,143 +16,143 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:1
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:1
 msgid "Keyboard Settings"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:3
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:3
 msgid "Keyboard Language"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:6
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:6
 msgid "American"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:13
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:13
 msgid "`*` American"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:16
-#: ../../Manual/Wired-CCD/source/keyboard.md:22
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:16
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:22
 msgid "Canada (French)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:25
-#: ../../Manual/Wired-CCD/source/keyboard.md:31
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:25
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:31
 msgid "Netherlands"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:35
-#: ../../Manual/Wired-CCD/source/keyboard.md:41
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:35
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:41
 msgid "Spain"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:45
-#: ../../Manual/Wired-CCD/source/keyboard.md:51
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:45
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:51
 msgid "Latin America (Spanish)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:55
-#: ../../Manual/Wired-CCD/source/keyboard.md:61
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:55
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:61
 msgid "Brazil (Portuguese)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:66
-#: ../../Manual/Wired-CCD/source/keyboard.md:72
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:66
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:72
 msgid "Denmark"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:75
-#: ../../Manual/Wired-CCD/source/keyboard.md:81
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:75
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:81
 msgid "Britain"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:84
-#: ../../Manual/Wired-CCD/source/keyboard.md:90
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:84
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:90
 msgid "Italy"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:93
-#: ../../Manual/Wired-CCD/source/keyboard.md:99
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:93
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:99
 msgid "France"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:102
-#: ../../Manual/Wired-CCD/source/keyboard.md:108
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:102
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:108
 msgid "Germany"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:111
-#: ../../Manual/Wired-CCD/source/keyboard.md:117
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:111
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:117
 msgid "Norway"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:120
-#: ../../Manual/Wired-CCD/source/keyboard.md:126
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:120
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:126
 msgid "Sweden"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:129
-#: ../../Manual/Wired-CCD/source/keyboard.md:135
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:129
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:135
 msgid "Slovakia"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:138
-#: ../../Manual/Wired-CCD/source/keyboard.md:144
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:138
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:144
 msgid "Portugal"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:147
-#: ../../Manual/Wired-CCD/source/keyboard.md:153
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:147
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:153
 msgid "Czech"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:156
-#: ../../Manual/Wired-CCD/source/keyboard.md:162
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:156
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:162
 msgid "Belgium (French)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:165
-#: ../../Manual/Wired-CCD/source/keyboard.md:171
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:165
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:171
 msgid "Turkey-F"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:174
-#: ../../Manual/Wired-CCD/source/keyboard.md:180
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:174
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:180
 msgid "Turkey-Q"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:183
-#: ../../Manual/Wired-CCD/source/keyboard.md:189
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:183
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:189
 msgid "Poland"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:192
-#: ../../Manual/Wired-CCD/source/keyboard.md:198
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:192
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:198
 msgid "Switzerland (German)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:201
-#: ../../Manual/Wired-CCD/source/keyboard.md:207
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:201
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:207
 msgid "Croatia"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:210
-#: ../../Manual/Wired-CCD/source/keyboard.md:216
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:210
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:216
 msgid "Hungary"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:219
-#: ../../Manual/Wired-CCD/source/keyboard.md:225
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:219
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:225
 msgid "Japanese"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:228
-#: ../../Manual/Wired-CCD/source/keyboard.md:234
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:228
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:234
 msgid "Russia"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/keyboard.md:237
-#: ../../Manual/Wired-CCD/source/keyboard.md:243
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:237
+#: ../../../Workspace/scanner-document/Wired-CCD/source/keyboard.md:243
 msgid "Thai"
 msgstr ""

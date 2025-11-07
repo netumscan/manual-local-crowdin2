@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,67 +16,67 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Platform/source/keyboard.md:1
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:1
 msgid "Keyboard Settings"
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:3
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:3
 msgid "Case Settings"
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:4
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:4
 msgid "You can configure the output to be all uppercase or all lowercase"
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:6
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:6
 msgid "Normal"
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:11
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:11
 msgid "`*` Normal"
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:14
-#: ../../Manual/Platform/source/keyboard.md:20
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:14
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:20
 msgid "Inverted Case (A<->a)"
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:23
-#: ../../Manual/Platform/source/keyboard.md:28
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:23
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:28
 msgid "All Caps (a->A)"
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:31
-#: ../../Manual/Platform/source/keyboard.md:36
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:31
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:36
 msgid "All Lowercase (A->a)"
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:39
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:39
 msgid "Character Encoding Settings"
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:41
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:41
 msgid "**GBK**：Supports Chinese input in Notepad and Excel."
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:42
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:42
 msgid "**UTF8**：Support Chinese input in Word and QQ."
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:44
-#: ../../Manual/Platform/source/keyboard.md:50
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:44
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:50
 msgid "Original Types"
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:53
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:53
 msgid "GBK"
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:59
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:59
 msgid "`*` GBK"
 msgstr ""
 
-#: ../../Manual/Platform/source/keyboard.md:62
-#: ../../Manual/Platform/source/keyboard.md:68
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:62
+#: ../../../Workspace/scanner-document/Platform/source/keyboard.md:68
 msgid "UTF8"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-29 10:14+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,68 +16,68 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-DP/source/system.md:1
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:1
 msgid "System Settings"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:3
-#: ../../Manual/Wired-DP/source/system.md:10
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:3
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:10
 msgid "Restore Default Settings"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:4
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:4
 msgid "When an unknown error occurs on the scanner, you can reset the scanner by restoring the default settings."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:14
-#: ../../Manual/Wired-DP/source/system.md:20
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:14
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:20
 msgid "Get Firmware Version"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:23
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:23
 msgid "Volume Settings"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:25
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:25
 msgid "Volume Level"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:31
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:31
 msgid "Low Volume"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:39
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:39
 msgid "High Volume"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:43
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:43
 msgid "Startup Prompt Tone"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:49
-#: ../../Manual/Wired-DP/source/system.md:65
-#: ../../Manual/Wired-DP/source/system.md:76
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:49
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:65
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:76
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:55
-#: ../../Manual/Wired-DP/source/system.md:71
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:55
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:71
 msgid "`*` Enable"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:59
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:59
 msgid "Scan Success Prompt tone"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:74
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:74
 msgid "LED Indicator"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:81
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:81
 msgid "`*` Disable"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/system.md:84
-#: ../../Manual/Wired-DP/source/system.md:89
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:84
+#: ../../../Workspace/scanner-document/Wired-DP/source/system.md:89
 msgid "Enable"
 msgstr ""

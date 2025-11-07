@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-21 08:49+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,71 +16,71 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-CCD/source/character.md:1
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:1
 msgid "Terminator"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:3
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:3
 msgid "End Character Settings"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:4
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:4
 msgid "The end character is added after the decoded data in the format of decoded data + end character."
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:6
-#: ../../Manual/Wired-CCD/source/character.md:12
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:6
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:12
 msgid "No End Character"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:16
-#: ../../Manual/Wired-CCD/source/character.md:22
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:16
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:22
 msgid "Enter+New Line(CRLF)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:26
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:26
 msgid "Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:32
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:32
 msgid "`*` Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:36
-#: ../../Manual/Wired-CCD/source/character.md:42
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:36
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:42
 msgid "New Line(LF)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:46
-#: ../../Manual/Wired-CCD/source/character.md:52
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:46
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:52
 msgid "Tab(TAB)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:56
-#: ../../Manual/Wired-CCD/source/character.md:62
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:56
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:62
 msgid "Enter+Enter(CRCR)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:66
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:66
 msgid "Transmit Code ID Character"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:67
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:67
 msgid "A code ID character identifies the code type of a scanned bar code. This can be useful when decoding more than one code type. The code ID character is inserted between the prefix character (if selected) and the decoded symbol."
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:74
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:74
 msgid "`*` None"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:81
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:81
 msgid "Enable Code ID (Prefix)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:88
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:88
 msgid "Enable Code ID (Suffix)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/character.md:92
+#: ../../../Workspace/scanner-document/Wired-CCD/source/character.md:92
 msgid "Code ID Identifiers"
 msgstr ""

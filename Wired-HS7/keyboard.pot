@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,187 +16,187 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:1
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:1
 msgid "Keyboard Settings"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:3
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:3
 msgid "Character Encoding Settings"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:4
-#: ../../Manual/Wired-HS7/source/keyboard.md:10
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:4
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:10
 msgid "GBK(GB2312)"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:14
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:14
 msgid "After setting this option, you can upload Chinese in Notepad or Excel"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:17
-#: ../../Manual/Wired-HS7/source/keyboard.md:22
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:17
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:22
 msgid "UNICODE"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:26
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:26
 msgid "After setting this option, it is supported to transmission Chinese in word documents or input boxes"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:30
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:30
 msgid "Keyboard Language"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:33
-#: ../../Manual/Wired-HS7/source/keyboard.md:39
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:33
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:39
 msgid "Chinese"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:42
-#: ../../Manual/Wired-HS7/source/keyboard.md:49
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:42
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:49
 msgid "America"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:52
-#: ../../Manual/Wired-HS7/source/keyboard.md:58
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:52
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:58
 msgid "Finland"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:61
-#: ../../Manual/Wired-HS7/source/keyboard.md:67
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:61
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:67
 msgid "Spain"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:71
-#: ../../Manual/Wired-HS7/source/keyboard.md:77
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:71
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:77
 msgid "France"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:81
-#: ../../Manual/Wired-HS7/source/keyboard.md:87
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:81
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:87
 msgid "Germany"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:91
-#: ../../Manual/Wired-HS7/source/keyboard.md:97
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:91
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:97
 msgid "Italy"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:101
-#: ../../Manual/Wired-HS7/source/keyboard.md:107
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:101
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:107
 msgid "Denmark"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:112
-#: ../../Manual/Wired-HS7/source/keyboard.md:118
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:112
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:118
 msgid "Norway"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:121
-#: ../../Manual/Wired-HS7/source/keyboard.md:127
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:121
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:127
 msgid "Czech"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:131
-#: ../../Manual/Wired-HS7/source/keyboard.md:137
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:131
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:137
 msgid "Hungary"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:140
-#: ../../Manual/Wired-HS7/source/keyboard.md:146
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:140
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:146
 msgid "Sweden"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:149
-#: ../../Manual/Wired-HS7/source/keyboard.md:155
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:149
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:155
 msgid "Arab"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:158
-#: ../../Manual/Wired-HS7/source/keyboard.md:164
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:158
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:164
 msgid "Russia"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:167
-#: ../../Manual/Wired-HS7/source/keyboard.md:173
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:167
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:173
 msgid "Switzerland (French)"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:176
-#: ../../Manual/Wired-HS7/source/keyboard.md:182
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:176
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:182
 msgid "Iceland"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:185
-#: ../../Manual/Wired-HS7/source/keyboard.md:191
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:185
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:191
 msgid "Slovenia"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:194
-#: ../../Manual/Wired-HS7/source/keyboard.md:200
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:194
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:200
 msgid "Croatia"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:203
-#: ../../Manual/Wired-HS7/source/keyboard.md:209
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:203
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:209
 msgid "Albania"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:212
-#: ../../Manual/Wired-HS7/source/keyboard.md:218
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:212
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:218
 msgid "Serbia (Latin)"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:221
-#: ../../Manual/Wired-HS7/source/keyboard.md:227
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:221
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:227
 msgid "Serbian Cyrillic"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:230
-#: ../../Manual/Wired-HS7/source/keyboard.md:236
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:230
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:236
 msgid "Czech-QWERTZ"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:239
-#: ../../Manual/Wired-HS7/source/keyboard.md:245
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:239
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:245
 msgid "Czech-QWERTY"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:248
-#: ../../Manual/Wired-HS7/source/keyboard.md:254
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:248
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:254
 msgid "Estonia"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:258
-#: ../../Manual/Wired-HS7/source/keyboard.md:264
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:258
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:264
 msgid "Lithuania"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:267
-#: ../../Manual/Wired-HS7/source/keyboard.md:273
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:267
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:273
 msgid "Ireland"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:276
-#: ../../Manual/Wired-HS7/source/keyboard.md:282
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:276
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:282
 msgid "Faroese"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:285
-#: ../../Manual/Wired-HS7/source/keyboard.md:291
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:285
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:291
 msgid "Turkey-F"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:294
-#: ../../Manual/Wired-HS7/source/keyboard.md:300
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:294
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:300
 msgid "Turkey-Q"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:303
-#: ../../Manual/Wired-HS7/source/keyboard.md:309
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:303
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:309
 msgid "Slovakia"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/keyboard.md:312
-#: ../../Manual/Wired-HS7/source/keyboard.md:318
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:312
+#: ../../../Workspace/scanner-document/Wired-HS7/source/keyboard.md:318
 msgid "Japanese"
 msgstr ""

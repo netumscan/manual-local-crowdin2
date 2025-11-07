@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,39 +16,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-290/source/barcode.md:1
+#: ../../../Workspace/scanner-document/Wired-290/source/barcode.md:1
 msgid "Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/barcode.md:4
-#: ../../Manual/Wired-290/source/barcode.md:13
+#: ../../../Workspace/scanner-document/Wired-290/source/barcode.md:4
+#: ../../../Workspace/scanner-document/Wired-290/source/barcode.md:13
 msgid "Start Setup"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/barcode.md:6
-#: ../../Manual/Wired-290/source/barcode.md:52
+#: ../../../Workspace/scanner-document/Wired-290/source/barcode.md:6
+#: ../../../Workspace/scanner-document/Wired-290/source/barcode.md:52
 msgid "Only after scanning [Start Setup](#start-setup) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup) for the corresponding configuration to take effect."
 msgstr ""
 
-#: ../../Manual/Wired-290/source/barcode.md:16
+#: ../../../Workspace/scanner-document/Wired-290/source/barcode.md:16
 msgid "1D Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/barcode.md:22
-#: ../../Manual/Wired-290/source/barcode.md:38
+#: ../../../Workspace/scanner-document/Wired-290/source/barcode.md:22
+#: ../../../Workspace/scanner-document/Wired-290/source/barcode.md:38
 msgid "Enable"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/barcode.md:29
-#: ../../Manual/Wired-290/source/barcode.md:46
+#: ../../../Workspace/scanner-document/Wired-290/source/barcode.md:29
+#: ../../../Workspace/scanner-document/Wired-290/source/barcode.md:46
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/barcode.md:32
+#: ../../../Workspace/scanner-document/Wired-290/source/barcode.md:32
 msgid "2D Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/barcode.md:50
-#: ../../Manual/Wired-290/source/barcode.md:59
+#: ../../../Workspace/scanner-document/Wired-290/source/barcode.md:50
+#: ../../../Workspace/scanner-document/Wired-290/source/barcode.md:59
 msgid "End Setup"
 msgstr ""

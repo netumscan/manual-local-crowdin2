@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,51 +16,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-280/source/scanmode.md:1
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:1
 msgid "Scan Mode"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/scanmode.md:3
-#: ../../Manual/Wired-280/source/scanmode.md:11
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:3
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:11
 msgid "Start Setup"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/scanmode.md:5
-#: ../../Manual/Wired-280/source/scanmode.md:49
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:5
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:49
 msgid "Only after scanning [Start Setup](#start-setup-figure) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup-figure) for the corresponding configuration to take effect."
 msgstr ""
 
-#: ../../Manual/Wired-280/source/scanmode.md:15
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:15
 msgid "Key Trigger Mode"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/scanmode.md:16
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:16
 msgid "Press the button to trigger scanning, and release the button to end scanning. Scanning ends when the scan is successful or the reading time exceeds the single reading time."
 msgstr ""
 
-#: ../../Manual/Wired-280/source/scanmode.md:22
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:22
 msgid "`*` Key Trigger Mode"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/scanmode.md:26
-#: ../../Manual/Wired-280/source/scanmode.md:33
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:26
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:33
 msgid "Auto Sensing Mode"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/scanmode.md:27
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:27
 msgid "In the auto sensing mode, the scanner will detect the brightness of the surrounding environment. When the brightness changes, the scan is triggered. The scan ends when the scan is successful or the scan time exceeds the single working time. Regardless of whether the last scan was successful or failed, the brightness of the surrounding environment will be detected again."
 msgstr ""
 
-#: ../../Manual/Wired-280/source/scanmode.md:36
-#: ../../Manual/Wired-280/source/scanmode.md:43
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:36
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:43
 msgid "Continuous Mode"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/scanmode.md:37
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:37
 msgid "The scanner works continuously. If the scan is successful or the scan time exceeds the single working time, the current scan ends. If the time exceeds the specified time, the next scan is automatically triggered."
 msgstr ""
 
-#: ../../Manual/Wired-280/source/scanmode.md:47
-#: ../../Manual/Wired-280/source/scanmode.md:56
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:47
+#: ../../../Workspace/scanner-document/Wired-280/source/scanmode.md:56
 msgid "End Setup"
 msgstr ""

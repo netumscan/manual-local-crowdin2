@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,215 +16,215 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:1
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:1
 msgid "Keyboard Settings"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:3
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:3
 msgid "Case Settings"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:5
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:5
 msgid "Normal"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:10
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:10
 msgid "`*` Normal"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:13
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:18
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:13
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:18
 msgid "Inverted Case (A<->a)"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:21
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:26
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:21
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:26
 msgid "All Caps (a->A)"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:29
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:34
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:29
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:34
 msgid "All Lowercase (A->a)"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:37
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:37
 msgid "Keyboard Language"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:39
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:39
 msgid "If you are using a French keyboard, scan the [French](#france) command barcode."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:40
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:40
 msgid "If you use a US keyboard, you can ignore this step (the US keyboard is used by default in China)."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:41
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:41
 msgid "If the scanned and transmitted data is garbled, it may be that the computer input method language does not correspond to the scanner language."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:45
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:51
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:45
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:51
 msgid "Get Current Keyboard Language"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:54
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:61
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:54
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:61
 msgid "America"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:64
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:70
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:64
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:70
 msgid "France"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:73
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:79
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:73
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:79
 msgid "Germany"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:83
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:89
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:83
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:89
 msgid "Italy"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:93
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:99
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:93
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:99
 msgid "Portugal"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:103
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:109
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:103
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:109
 msgid "Spain"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:113
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:113
 msgid "Turkey"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:119
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:119
 msgid "Turkey-Q"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:126
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:126
 msgid "Turkey-F"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:130
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:136
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:130
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:136
 msgid "Britain"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:139
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:145
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:139
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:145
 msgid "Czech"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:149
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:155
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:149
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:155
 msgid "Hungary"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:159
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:165
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:159
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:165
 msgid "Belgium (French)"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:169
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:175
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:169
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:175
 msgid "Brazil (Portuguese)"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:179
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:185
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:179
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:185
 msgid "Canada (French)"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:189
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:195
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:189
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:195
 msgid "Croatia"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:199
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:205
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:199
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:205
 msgid "Slovakia"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:209
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:215
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:209
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:215
 msgid "Denmark"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:219
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:225
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:219
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:225
 msgid "Finland"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:229
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:235
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:229
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:235
 msgid "Latin America (Spanish)"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:238
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:244
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:238
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:244
 msgid "Netherlands"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:247
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:253
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:247
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:253
 msgid "Norway"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:256
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:262
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:256
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:262
 msgid "Poland"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:266
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:271
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:266
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:271
 msgid "Serbia (Latin)"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:275
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:281
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:275
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:281
 msgid "Slovenia"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:285
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:291
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:285
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:291
 msgid "Sweden"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:295
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:301
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:295
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:301
 msgid "Switzerland (German)"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:305
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:311
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:305
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:311
 msgid "Japanese"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:315
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:315
 msgid "Thai[^1]"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:321
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:321
 msgid "Thai"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:328
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:328
 msgid "ALT International Universal Keyboard[^2]"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:334
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:334
 msgid "ALT International Universal Keyboard"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:325
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:325
 msgid "TH language setting, the scan module also need set to TH output."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/keyboard.md:337
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/keyboard.md:337
 msgid "The ALT international universal keyboard is only applicable to Windows systems and is not affected by the computer keyboard settings, but it will affect the transmission speed."
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,132 +16,132 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:1
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:1
 msgid "Wi-Fi Transmission mode"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:3
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:3
 msgid "Modify Device ID"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:10
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:10
 msgid "Data Upload Format"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:11
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:11
 msgid "Original Barcode Content[^1]"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:18
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:18
 msgid "Original Barcode Content"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:20
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:20
 msgid "Json Format Content[^2]"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:28
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:28
 msgid "Json Format Content"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:30
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:30
 msgid "Json Format + double quotes plus escape characters in content[^3]"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:38
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:38
 msgid "Json Format + double quotes plus escape characters in content"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:41
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:41
 msgid "Data Rceiving Format"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:47
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:47
 msgid "Parameter name"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:47
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:47
 msgid "type"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:47
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:47
 msgid "description"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:47
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:47
 msgid "ply"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:47
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:47
 msgid "Int"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:47
-#: ../../Manual/Wireless-WiFi/source/wireless.md:59
-#: ../../Manual/Wireless-WiFi/source/wireless.md:65
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:47
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:59
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:65
 msgid "Voice Code"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:47
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:47
 msgid "msg"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:47
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:47
 msgid "String"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:47
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:47
 msgid "Message content"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:52
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:52
 msgid "Return example"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:65
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:65
 msgid "Voice content"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:65
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:65
 msgid "1"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:65
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:65
 msgid "The buzzer sounds once"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:65
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:65
 msgid "2"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:65
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:65
 msgid "The buzzer sounds twice"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:65
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:65
 msgid "3"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:65
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:65
 msgid "The buzzer sounds three"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:73
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:73
 msgid "Data Transmission Protocol"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:82
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:82
 msgid "Network Configuration"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:12
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:12
 msgid "Original barcode content: {\"ID\":\"680870\"}"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:21
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:21
 msgid "Json format content: {\"id\":\"C143F123\",\"msg\":\"{\"ID\":\"680870\"}\"}"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/wireless.md:31
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/wireless.md:31
 msgid "Json Format + double quotes plus escape characters in content: {\"id\":\"C143F123\",\"msg\":\"{\\\"ID\\\":\\\"680870\\\"}\"}"
 msgstr ""

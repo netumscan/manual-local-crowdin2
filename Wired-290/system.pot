@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,51 +16,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-290/source/system.md:1
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:1
 msgid "System Settings"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/system.md:3
-#: ../../Manual/Wired-290/source/system.md:12
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:3
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:12
 msgid "Start Setup"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/system.md:5
-#: ../../Manual/Wired-290/source/system.md:48
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:5
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:48
 msgid "Only after scanning [Start Setup](#start-setup) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup) for the corresponding configuration to take effect."
 msgstr ""
 
-#: ../../Manual/Wired-290/source/system.md:15
-#: ../../Manual/Wired-290/source/system.md:23
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:15
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:23
 msgid "Restore Default Settings"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/system.md:16
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:16
 msgid "When an unknown error occurs on the scanner, you can reset the scanner by restoring the default settings."
 msgstr ""
 
-#: ../../Manual/Wired-290/source/system.md:27
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:27
 msgid "Volume Settings"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/system.md:28
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:28
 msgid "Scan the corresponding setting code to turn on/off the sound prompt of the scanner"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/system.md:30
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:30
 msgid "Enable"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/system.md:35
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:35
 msgid "`*` Enable"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/system.md:38
-#: ../../Manual/Wired-290/source/system.md:43
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:38
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:43
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-290/source/system.md:46
-#: ../../Manual/Wired-290/source/system.md:55
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:46
+#: ../../../Workspace/scanner-document/Wired-290/source/system.md:55
 msgid "End Setup"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-29 10:14+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,136 +16,136 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-DP/source/character.md:1
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:1
 msgid "Terminator"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:3
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:3
 msgid "Start Character Settings"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:4
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:4
 msgid "The start character is added before the decoded data, and the format is: start character + decoded data."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:6
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:6
 msgid "No Start Character"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:12
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:12
 msgid "`*` No Start Character"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:15
-#: ../../Manual/Wired-DP/source/character.md:21
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:15
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:21
 msgid "STX"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:24
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:24
 msgid "End Character Settings"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:25
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:25
 msgid "The end character is added after the decoded data in the format of decoded data + end character."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:27
-#: ../../Manual/Wired-DP/source/character.md:33
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:27
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:33
 msgid "No End Character"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:36
-#: ../../Manual/Wired-DP/source/character.md:43
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:36
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:43
 msgid "Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:46
-#: ../../Manual/Wired-DP/source/character.md:52
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:46
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:52
 msgid "New Line(LF)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:55
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:55
 msgid "Enter+New Line(CRLF)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:61
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:61
 msgid "`*` Enter+New Line(CRLF)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:64
-#: ../../Manual/Wired-DP/source/character.md:70
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:64
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:70
 msgid "Tab(TAB)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:73
-#: ../../Manual/Wired-DP/source/character.md:79
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:73
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:79
 msgid "ETX"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:83
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:83
 msgid "Code ID"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:85
-#: ../../Manual/Wired-DP/source/character.md:135
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:85
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:135
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:90
-#: ../../Manual/Wired-DP/source/character.md:140
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:90
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:140
 msgid "`*` Disable"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:93
-#: ../../Manual/Wired-DP/source/character.md:98
-#: ../../Manual/Wired-DP/source/character.md:143
-#: ../../Manual/Wired-DP/source/character.md:148
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:93
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:98
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:143
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:148
 msgid "Enable (Before The Barcode Content)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:101
-#: ../../Manual/Wired-DP/source/character.md:106
-#: ../../Manual/Wired-DP/source/character.md:151
-#: ../../Manual/Wired-DP/source/character.md:156
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:101
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:106
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:151
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:156
 msgid "Enable (After The Barcode Content)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:109
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:109
 msgid "Edit"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:114
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:114
 msgid "Customize CODE ID"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:122
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:122
 msgid "Clear All Custom CODE IDs"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:125
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:125
 msgid "Code ID Identifiers"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:132
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:132
 msgid "AIM ID"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:160
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:160
 msgid "AIM Code Identifiers"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:163
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:163
 msgid "Each AIM Code Identifier contains the three-character string ]cm where: <br>"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:164
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:164
 msgid "] = Flag Character"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:165
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:165
 msgid "c =Code Character (see table)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/character.md:166
+#: ../../../Workspace/scanner-document/Wired-DP/source/character.md:166
 msgid "m= Modifier Character"
 msgstr ""

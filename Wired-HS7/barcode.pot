@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,59 +16,59 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-HS7/source/barcode.md:1
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:1
 msgid "Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:3
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:3
 msgid "1D Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:9
-#: ../../Manual/Wired-HS7/source/barcode.md:26
-#: ../../Manual/Wired-HS7/source/barcode.md:73
-#: ../../Manual/Wired-HS7/source/barcode.md:78
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:9
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:26
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:73
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:78
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:17
-#: ../../Manual/Wired-HS7/source/barcode.md:34
-#: ../../Manual/Wired-HS7/source/barcode.md:81
-#: ../../Manual/Wired-HS7/source/barcode.md:86
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:17
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:34
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:81
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:86
 msgid "Enable"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:20
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:20
 msgid "2D Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:37
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:37
 msgid "Reversal Barcode Settings"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:41
-#: ../../Manual/Wired-HS7/source/barcode.md:46
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:41
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:46
 msgid "No Support Reversal Barcode"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:49
-#: ../../Manual/Wired-HS7/source/barcode.md:54
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:49
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:54
 msgid "Only Supports Reversal Barcode"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:57
-#: ../../Manual/Wired-HS7/source/barcode.md:62
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:57
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:62
 msgid "All Supported"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:66
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:66
 msgid "If the scanner is configured as [Only Supports Reversal Barcode](#only-supports-reversal-barcode), and you want to configure it to support both normal barcodes and reverse barcodes, configure it as [All Supported](#all-supported)"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:70
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:70
 msgid "Block Barcodes With URLs"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/barcode.md:71
+#: ../../../Workspace/scanner-document/Wired-HS7/source/barcode.md:71
 msgid "Block scanning of URL QR codes starting with `http://`, `https://`"
 msgstr ""

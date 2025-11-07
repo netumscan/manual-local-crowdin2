@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,52 +16,52 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-280/source/barcode.md:1
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:1
 msgid "Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/barcode.md:3
-#: ../../Manual/Wired-280/source/barcode.md:12
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:3
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:12
 msgid "Start Setup"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/barcode.md:5
-#: ../../Manual/Wired-280/source/barcode.md:63
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:5
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:63
 msgid "Only after scanning [Start Setup](#start-setup-figure) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup-figure) for the corresponding configuration to take effect."
 msgstr ""
 
-#: ../../Manual/Wired-280/source/barcode.md:16
-#: ../../Manual/Wired-280/source/barcode.md:22
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:16
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:22
 msgid "Enable All Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/barcode.md:25
-#: ../../Manual/Wired-280/source/barcode.md:31
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:25
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:31
 msgid "Only Enable 1D Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/barcode.md:34
-#: ../../Manual/Wired-280/source/barcode.md:40
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:34
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:40
 msgid "Only Enable 2D Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/barcode.md:43
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:43
 msgid "Block Barcodes With URLs"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/barcode.md:44
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:44
 msgid "Block scanning of URL QR codes starting with `http://`, `https://`"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/barcode.md:51
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:51
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/barcode.md:58
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:58
 msgid "`*` Enable"
 msgstr ""
 
-#: ../../Manual/Wired-280/source/barcode.md:61
-#: ../../Manual/Wired-280/source/barcode.md:71
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:61
+#: ../../../Workspace/scanner-document/Wired-280/source/barcode.md:71
 msgid "End Setup"
 msgstr ""

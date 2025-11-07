@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-21 10:48+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,291 +16,291 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless/source/process.md:1
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:1
 msgid "Data Editing"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:3
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:3
 msgid "Output Format"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:4
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:4
 msgid "To change the Scan Data Transmission Format, scan one of the eight bar codes corresponding to the desired format."
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:7
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:7
 msgid "Default output format"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:13
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:13
 msgid "`*` Default output format"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:16
-#: ../../Manual/Wireless/source/process.md:23
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:16
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:23
 msgid "Enable Suffix output"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:26
-#: ../../Manual/Wireless/source/process.md:33
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:26
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:33
 msgid "Enable Prefix output"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:36
-#: ../../Manual/Wireless/source/process.md:43
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:36
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:43
 msgid "Enable Hide Barcode Start Char"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:46
-#: ../../Manual/Wireless/source/process.md:53
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:46
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:53
 msgid "Enable Hide Barcode Middle Char"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:56
-#: ../../Manual/Wireless/source/process.md:63
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:56
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:63
 msgid "Enable Hide Barcode End Char"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:66
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:66
 msgid "Prefix"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:68
-#: ../../Manual/Wireless/source/process.md:75
-#: ../../Manual/Wireless/source/process.md:174
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:68
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:75
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:174
 msgid "Add Prefix"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:78
-#: ../../Manual/Wireless/source/process.md:84
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:78
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:84
 msgid "Clear All Prefix"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:87
-#: ../../Manual/Wireless/source/process.md:118
-#: ../../Manual/Wireless/source/process.md:166
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:87
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:118
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:166
 msgid "Operation Steps"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:89
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:89
 msgid "Step 1. If prefix output is not enabled, you can enable it by setting the [output format](#enable-prefix-output-figure);"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:90
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:90
 msgid "Step 2. If you have set a prefix before, the new prefix will be after the previously added prefix. If you want to discard the previous content and set it again, please scan \"[Clear Prefix](#clear-all-prefix-figure)\" first, and then perform the following adding actions;"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:91
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:91
 msgid "Step 3. Scan to [add prefix](#add-prefix-figure)"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:92
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:92
 msgid "Setp 4. Determine the two-digit hexadecimal value of the prefix character to be added; refer to the [ASCII Chars Table](#ascii-chars-table)"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:93
-#: ../../Manual/Wireless/source/process.md:124
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:93
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:124
 msgid "setp 5. Scan the [digital setting code](#numeric-bar-codes): scan the hexadecimal high value, then scan the low value;"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:94
-#: ../../Manual/Wireless/source/process.md:125
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:94
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:125
 msgid "setp 6. Repeat steps 4 and 5 to add the next character."
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:97
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:97
 msgid "e.g. Want to add \"Ctrl+A\" as prefix, Scan '[add prefix](#add-prefix-figure)', '[9](#numeric-bar-codes-9)','[7](#numeric-bar-codes-7)','[4](#numeric-bar-codes-4)','[1](#numeric-bar-codes-1)'."
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:100
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:100
 msgid "Suffix"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:101
-#: ../../Manual/Wireless/source/process.md:107
-#: ../../Manual/Wireless/source/process.md:187
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:101
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:107
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:187
 msgid "Add Suffix"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:109
-#: ../../Manual/Wireless/source/process.md:115
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:109
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:115
 msgid "Clear All Suffix"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:120
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:120
 msgid "Step 1. If suffix output is not enabled, you can enable it by setting the [output format](#enable-suffix-output-figure);"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:121
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:121
 msgid "Step 2. If you have set a suffix before, the new suffix will be placed after the previously added suffix. If you need to discard the previous content and set it again, please scan \"[Clear suffix](#clear-all-suffix-figure)\" first, and then perform the following addition operations;"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:122
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:122
 msgid "Step 3. Scan to [add suffix](#add-suffix-figure);"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:123
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:123
 msgid "Setp 4. Determine the two-digit hexadecimal value of the suffix character to be added; refer to the [ASCII character table](#ascii-chars-table);"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:128
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:128
 msgid "e.g. Want to add \"Ctrl+Alt+A\" as surffix, Scan '[add suffix](#add-suffix-figure)', '[9](#numeric-bar-codes-9)', '[7](#numeric-bar-codes-7)', '[9](#numeric-bar-codes-9)', '[9](#numeric-bar-codes-9)', '[4](#numeric-bar-codes-4)', '[1](#numeric-bar-codes-1)'."
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:132
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:132
 msgid "Hide Set"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:133
-#: ../../Manual/Wireless/source/process.md:139
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:133
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:139
 msgid "Hide Barcode Start Chars"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:141
-#: ../../Manual/Wireless/source/process.md:147
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:141
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:147
 msgid "Hide Barcode Middle Char Start"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:149
-#: ../../Manual/Wireless/source/process.md:155
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:149
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:155
 msgid "Hide Barcode Middle Chars"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:157
-#: ../../Manual/Wireless/source/process.md:163
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:157
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:163
 msgid "Hide Barcode End Chars"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:167
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:167
 msgid "Step 1. Scan the Hide Barcode [Start](#hide-barcode-start-chars-figure) / [Middle Start](#hide-barcode-middle-char-start-figure) / [Middle length](#hide-barcode-middle-chars-figure) / [End](#hide-barcode-end-chars-figure) Chars symbol."
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:168
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:168
 msgid "Step 2. Determine the hex value for the length you wish to enter(hide 4 chars, scan [0](#numeric-bar-codes-0),[4](#numeric-bar-codes-4);  hide 12 chars, scan [0](#numeric-bar-codes-0),[C](#numeric-bar-codes-c))."
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:169
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:169
 msgid "Step 3. Scan the 2 digit hex value from the Programming Chart."
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:170
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:170
 msgid "Step 4. Scan the output format [Start](#enable-hide-barcode-start-char-figure)/[Middle](#enable-hide-barcode-middle-char-figure)/[End](#enable-hide-barcode-end-char-figure) to enable or [cancel hide char](#default-output-format-figure) function."
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:172
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:172
 msgid "Quick Setup"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:181
-#: ../../Manual/Wireless/source/process.md:196
-#: ../../Manual/Wireless/source/process.md:225
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:181
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:196
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:225
 msgid "Special characters need to be processed in hexadecimal format, and `\\x` is added in front of the hexadecimal content to indicate the hexadecimal format."
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:182
-#: ../../Manual/Wireless/source/process.md:197
-#: ../../Manual/Wireless/source/process.md:226
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:182
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:197
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:226
 msgid "Please refer to the [ASCII character table](#ascii-chars-table) for specific characters converted into hexadecimal characters."
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:183
-#: ../../Manual/Wireless/source/process.md:198
-#: ../../Manual/Wireless/source/process.md:227
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:183
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:198
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:227
 msgid "Example: To add a 0x03 to the content, the input content should be: \\x03"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:201
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:201
 msgid "Hide Barcode Start Content"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:207
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:207
 msgid "Hide Barcode Middle Content"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:213
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:213
 msgid "Hide Barcode End Content"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:219
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:219
 msgid "Replace Barcode Content"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:231
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:231
 msgid "Appendix"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:233
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:233
 msgid "Numeric Bar Codes"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:241
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:241
 msgid "0"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:249
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:249
 msgid "1"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:257
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:257
 msgid "2"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:265
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:265
 msgid "3"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:273
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:273
 msgid "4"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:281
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:281
 msgid "5"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:289
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:289
 msgid "6"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:297
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:297
 msgid "7"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:305
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:305
 msgid "8"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:313
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:313
 msgid "9"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:321
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:321
 msgid "A"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:329
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:329
 msgid "B"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:337
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:337
 msgid "C"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:345
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:345
 msgid "D"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:353
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:353
 msgid "E"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:361
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:361
 msgid "F"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:364
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:364
 msgid "ASCII Function Key Table"
 msgstr ""
 
-#: ../../Manual/Wireless/source/process.md:370
+#: ../../../Workspace/scanner-document/Wireless/source/process.md:370
 msgid "ASCII Chars Table"
 msgstr ""

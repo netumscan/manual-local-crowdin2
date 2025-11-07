@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,51 +16,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Platform/source/system.md:1
+#: ../../../Workspace/scanner-document/Platform/source/system.md:1
 msgid "System Settings"
 msgstr ""
 
-#: ../../Manual/Platform/source/system.md:3
-#: ../../Manual/Platform/source/system.md:10
+#: ../../../Workspace/scanner-document/Platform/source/system.md:3
+#: ../../../Workspace/scanner-document/Platform/source/system.md:10
 msgid "Restore Default Settings"
 msgstr ""
 
-#: ../../Manual/Platform/source/system.md:4
+#: ../../../Workspace/scanner-document/Platform/source/system.md:4
 msgid "When an unknown error occurs on the scanner, you can reset the scanner by restoring the default settings."
 msgstr ""
 
-#: ../../Manual/Platform/source/system.md:13
-#: ../../Manual/Platform/source/system.md:18
+#: ../../../Workspace/scanner-document/Platform/source/system.md:13
+#: ../../../Workspace/scanner-document/Platform/source/system.md:18
 msgid "Get Firmware Version"
 msgstr ""
 
-#: ../../Manual/Platform/source/system.md:21
+#: ../../../Workspace/scanner-document/Platform/source/system.md:21
 msgid "Volume Settings"
 msgstr ""
 
-#: ../../Manual/Platform/source/system.md:22
+#: ../../../Workspace/scanner-document/Platform/source/system.md:22
 msgid "You can adjust the buzzer volume by scanning the following setting code according to the application environment and personal habits."
 msgstr ""
 
-#: ../../Manual/Platform/source/system.md:24
-#: ../../Manual/Platform/source/system.md:29
+#: ../../../Workspace/scanner-document/Platform/source/system.md:24
+#: ../../../Workspace/scanner-document/Platform/source/system.md:29
 msgid "Mute"
 msgstr ""
 
-#: ../../Manual/Platform/source/system.md:31
-#: ../../Manual/Platform/source/system.md:36
+#: ../../../Workspace/scanner-document/Platform/source/system.md:31
+#: ../../../Workspace/scanner-document/Platform/source/system.md:36
 msgid "Low Volume"
 msgstr ""
 
-#: ../../Manual/Platform/source/system.md:39
-#: ../../Manual/Platform/source/system.md:44
+#: ../../../Workspace/scanner-document/Platform/source/system.md:39
+#: ../../../Workspace/scanner-document/Platform/source/system.md:44
 msgid "Medium Volume"
 msgstr ""
 
-#: ../../Manual/Platform/source/system.md:47
+#: ../../../Workspace/scanner-document/Platform/source/system.md:47
 msgid "High Volume"
 msgstr ""
 
-#: ../../Manual/Platform/source/system.md:52
+#: ../../../Workspace/scanner-document/Platform/source/system.md:52
 msgid "`*` High Volume"
 msgstr ""

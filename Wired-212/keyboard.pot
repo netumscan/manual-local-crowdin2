@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,214 +16,214 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-212/source/keyboard.md:1
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:1
 msgid "Keyboard Settings"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:3
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:3
 msgid "Character Encoding Settings"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:4
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:4
 msgid "Original Types"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:9
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:9
 msgid "`*` Original Types"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:11
-#: ../../Manual/Wired-212/source/keyboard.md:17
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:11
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:17
 msgid "GBK(GB2312)"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:21
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:21
 msgid "After setting this option, you can upload Chinese in Notepad or Excel"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:24
-#: ../../Manual/Wired-212/source/keyboard.md:29
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:24
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:29
 msgid "UTF8"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:33
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:33
 msgid "After setting this option, it is supported to transmission Chinese in word documents or input boxes"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:39
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:39
 msgid "Keyboard Language"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:42
-#: ../../Manual/Wired-212/source/keyboard.md:48
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:42
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:48
 msgid "America"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:51
-#: ../../Manual/Wired-212/source/keyboard.md:57
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:51
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:57
 msgid "Belgium"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:60
-#: ../../Manual/Wired-212/source/keyboard.md:66
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:60
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:66
 msgid "Brazil"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:70
-#: ../../Manual/Wired-212/source/keyboard.md:76
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:70
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:76
 msgid "Denmark"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:80
-#: ../../Manual/Wired-212/source/keyboard.md:86
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:80
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:86
 msgid "Finland"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:90
-#: ../../Manual/Wired-212/source/keyboard.md:96
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:90
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:96
 msgid "France"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:100
-#: ../../Manual/Wired-212/source/keyboard.md:106
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:100
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:106
 msgid "German (Austria)"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:110
-#: ../../Manual/Wired-212/source/keyboard.md:116
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:110
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:116
 msgid "Greece"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:119
-#: ../../Manual/Wired-212/source/keyboard.md:125
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:119
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:125
 msgid "Hungary"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:128
-#: ../../Manual/Wired-212/source/keyboard.md:134
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:128
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:134
 msgid "Italy"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:137
-#: ../../Manual/Wired-212/source/keyboard.md:143
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:137
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:143
 msgid "Netherlands"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:145
-#: ../../Manual/Wired-212/source/keyboard.md:151
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:145
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:151
 msgid "Norway"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:153
-#: ../../Manual/Wired-212/source/keyboard.md:159
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:153
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:159
 msgid "Poland"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:161
-#: ../../Manual/Wired-212/source/keyboard.md:167
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:161
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:167
 msgid "Portugal"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:169
-#: ../../Manual/Wired-212/source/keyboard.md:175
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:169
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:175
 msgid "Romania (Standard)"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:177
-#: ../../Manual/Wired-212/source/keyboard.md:183
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:177
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:183
 msgid "Russia"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:185
-#: ../../Manual/Wired-212/source/keyboard.md:191
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:185
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:191
 msgid "Slovakia"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:193
-#: ../../Manual/Wired-212/source/keyboard.md:199
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:193
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:199
 msgid "Spain"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:202
-#: ../../Manual/Wired-212/source/keyboard.md:208
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:202
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:208
 msgid "Sweden"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:211
-#: ../../Manual/Wired-212/source/keyboard.md:217
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:211
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:217
 msgid "Turkey-F"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:220
-#: ../../Manual/Wired-212/source/keyboard.md:226
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:220
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:226
 msgid "Turkey-Q"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:230
-#: ../../Manual/Wired-212/source/keyboard.md:236
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:230
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:236
 msgid "Britain"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:240
-#: ../../Manual/Wired-212/source/keyboard.md:246
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:240
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:246
 msgid "Japanese"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:249
-#: ../../Manual/Wired-212/source/keyboard.md:255
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:249
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:255
 msgid "Czech"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:258
-#: ../../Manual/Wired-212/source/keyboard.md:264
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:258
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:264
 msgid "Thai"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:267
-#: ../../Manual/Wired-212/source/keyboard.md:273
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:267
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:273
 msgid "Ukraine"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:275
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:275
 msgid "Arabic-101[^1]"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:282
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:282
 msgid "Arabic-101"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:286
-#: ../../Manual/Wired-212/source/keyboard.md:292
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:286
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:292
 msgid "Croatia"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:296
-#: ../../Manual/Wired-212/source/keyboard.md:302
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:296
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:302
 msgid "South Korea"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:306
-#: ../../Manual/Wired-212/source/keyboard.md:312
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:306
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:312
 msgid "Bulgaria"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:317
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:317
 msgid "Multi-national[^2]"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:325
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:325
 msgid "Multi-national"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:329
-#: ../../Manual/Wired-212/source/keyboard.md:335
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:329
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:335
 msgid "Vietnam"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:276
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:276
 msgid "The countries supported by this keyboard layout are: Saudi Arabia, UAE, Oman, Egypt, Bahrain, Qatar, Kuwait, Lebanon, Libya, Syria, Yemen, Iraq, and Jordan."
 msgstr ""
 
-#: ../../Manual/Wired-212/source/keyboard.md:319
+#: ../../../Workspace/scanner-document/Wired-212/source/keyboard.md:319
 msgid "This method cannot be used on Microsoft Word (Office Word). You can use the virtual keyboard method. The output character set should be set to UTF8 and the keyboard should be set to the American keyboard."
 msgstr ""

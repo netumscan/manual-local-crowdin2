@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-21 10:48+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,148 +16,148 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless/source/cs.md:1
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:1
 msgid "Product Introduction"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:3
-#: ../../Manual/Wireless/source/cs.md:7
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:3
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:7
 msgid "Front view of the product"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:9
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:9
 msgid "① Bluetooth Indicator Light (Blue LED)"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:11
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:11
 msgid "Blinking blue light: Bluetooth not paired"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:12
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:12
 msgid "Solid blue light: Bluetooth connected"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:13
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:13
 msgid "When the blue light is on, the device is in Bluetooth transmission mode"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:15
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:15
 msgid "② Battery Indicator Light (Green LED)"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:16
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:16
 msgid "Four green LEDs on: 75% - 100% battery"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:17
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:17
 msgid "Three green LEDs on: 50% - 75% battery"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:18
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:18
 msgid "Two green LEDs on: 25% - 50% battery"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:19
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:19
 msgid "One green LED on: 0% - 25% battery"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:21
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:21
 msgid "③ Status Indicator Light (Tri-color LED)"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:22
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:22
 msgid "Red light blinks twice: Low battery"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:23
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:23
 msgid "Red light blinks three times: Data transmission failed"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:24
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:24
 msgid "Red light blinks ﬁve times: Battery depleted"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:25
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:25
 msgid "Blue light blinks once: Data transmitted successfully"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:26
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:26
 msgid "Green light blinking: Storage mode active"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:27
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:27
 msgid "Green light solid: Fully charged"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:28
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:28
 msgid "④ Trigger Button"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:29
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:29
 msgid "Made of soft silicone material"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:31
-#: ../../Manual/Wireless/source/cs.md:35
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:31
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:35
 msgid "Rear view of the product"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:38
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:38
 msgid "① Scanning Window"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:39
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:39
 msgid "② Charging Pins"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:40
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:40
 msgid "Reserved pins"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:41
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:41
 msgid "Works with charging dock"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:42
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:42
 msgid "③ Mode Switch (3-position switch)"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:43
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:43
 msgid "Push left: Bluetooth mode"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:44
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:44
 msgid "Push center: Power oﬀ"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:45
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:45
 msgid "Push right: 2.4G Wireless mode"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:46
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:46
 msgid "④ Magnet"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:47
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:47
 msgid "Reserved magnet slot"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:48
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:48
 msgid "Compatible with dock"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:49
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:49
 msgid "⑤ Buzzer Hole"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:50
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:50
 msgid "⑥ Lanyard Slot"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:51
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:51
 msgid "⑦ Type-C Port"
 msgstr ""
 
-#: ../../Manual/Wireless/source/cs.md:52
+#: ../../../Workspace/scanner-document/Wireless/source/cs.md:52
 msgid "For charging and data transfer"
 msgstr ""

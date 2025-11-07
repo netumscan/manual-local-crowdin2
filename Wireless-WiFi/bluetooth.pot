@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,89 +16,89 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:1
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:1
 msgid "Bluetooth Mode"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:3
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:3
 msgid "Scan the Bluetooth mode, then press the button to start, you can switch to Bluetooth transmission, turn on Bluetooth to search for devices for pairing, and after successful pairing, you can transmit data via Bluetooth."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:4
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:4
 msgid "Bluetooth name: `barcode scanner` or `NETUM Bluetooth`"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:5
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:5
 msgid "Switch to Bluetooth mode and the blue indicator light will light up."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:9
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:9
 msgid "The blue light means:<br>①The blue light flashes, indicating that it is not connected.<br>②The blue light is on, indicating it is connected."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:13
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:13
 msgid "Bluetooth HID"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:19
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:19
 msgid "`*` Bluetooth HID"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:22
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:28
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:22
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:28
 msgid "Bluetooth SPP"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:31
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:37
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:31
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:37
 msgid "Bluetooth BLE"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:41
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:41
 msgid "Bluetooth SPP and Bluetooth BLE are modes used for software docking. If you need to search and pair through system Bluetooth, you need to use [Bluetooth HID](#bluetooth-hid)"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:43
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:49
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:43
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:49
 msgid "Clear Pairing Information"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:53
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:53
 msgid "Re-pair with a new device, or if pairing fails, scan the setup code to pair again."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:56
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:61
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:56
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:61
 msgid "IOS Popup/Hide Keyboard"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:65
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:65
 msgid "You can also press the scan button twice in a row to pop up/hide the keyboard without scanning the code. This function only supports Bluetooth pairing on iOS system."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:68
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:68
 msgid "Bluetooth Keyboard Transmission Speed"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:75
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:75
 msgid "Get Bluetooth Keyboard Transmission Speed"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:77
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:83
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:77
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:83
 msgid "High Speed"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:86
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:92
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:86
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:92
 msgid "Medium Speed"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:95
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:100
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:95
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:100
 msgid "Low Speed"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/bluetooth.md:103
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/bluetooth.md:103
 msgid "Modify Bluetooth Name"
 msgstr ""

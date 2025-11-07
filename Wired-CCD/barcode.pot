@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,384 +16,384 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-CCD/source/barcode.md:1
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:1
 msgid "Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:3
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:3
 msgid "Reverse Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:10
-#: ../../Manual/Wired-CCD/source/barcode.md:145
-#: ../../Manual/Wired-CCD/source/barcode.md:253
-#: ../../Manual/Wired-CCD/source/barcode.md:270
-#: ../../Manual/Wired-CCD/source/barcode.md:379
-#: ../../Manual/Wired-CCD/source/barcode.md:474
-#: ../../Manual/Wired-CCD/source/barcode.md:508
-#: ../../Manual/Wired-CCD/source/barcode.md:576
-#: ../../Manual/Wired-CCD/source/barcode.md:592
-#: ../../Manual/Wired-CCD/source/barcode.md:608
-#: ../../Manual/Wired-CCD/source/barcode.md:624
-#: ../../Manual/Wired-CCD/source/barcode.md:641
-#: ../../Manual/Wired-CCD/source/barcode.md:658
-#: ../../Manual/Wired-CCD/source/barcode.md:709
-#: ../../Manual/Wired-CCD/source/barcode.md:743
-#: ../../Manual/Wired-CCD/source/barcode.md:759
-#: ../../Manual/Wired-CCD/source/barcode.md:778
-#: ../../Manual/Wired-CCD/source/barcode.md:797
-#: ../../Manual/Wired-CCD/source/barcode.md:815
-#: ../../Manual/Wired-CCD/source/barcode.md:849
-#: ../../Manual/Wired-CCD/source/barcode.md:874
-#: ../../Manual/Wired-CCD/source/barcode.md:919
-#: ../../Manual/Wired-CCD/source/barcode.md:946
-#: ../../Manual/Wired-CCD/source/barcode.md:964
-#: ../../Manual/Wired-CCD/source/barcode.md:980
-#: ../../Manual/Wired-CCD/source/barcode.md:996
-#: ../../Manual/Wired-CCD/source/barcode.md:1023
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:10
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:145
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:253
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:270
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:379
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:474
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:508
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:576
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:592
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:608
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:624
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:641
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:658
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:709
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:743
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:759
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:778
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:797
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:815
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:849
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:874
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:919
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:946
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:964
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:980
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:996
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:1023
 msgid "Enable"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:18
-#: ../../Manual/Wired-CCD/source/barcode.md:77
-#: ../../Manual/Wired-CCD/source/barcode.md:138
-#: ../../Manual/Wired-CCD/source/barcode.md:203
-#: ../../Manual/Wired-CCD/source/barcode.md:246
-#: ../../Manual/Wired-CCD/source/barcode.md:263
-#: ../../Manual/Wired-CCD/source/barcode.md:330
-#: ../../Manual/Wired-CCD/source/barcode.md:372
-#: ../../Manual/Wired-CCD/source/barcode.md:425
-#: ../../Manual/Wired-CCD/source/barcode.md:467
-#: ../../Manual/Wired-CCD/source/barcode.md:501
-#: ../../Manual/Wired-CCD/source/barcode.md:569
-#: ../../Manual/Wired-CCD/source/barcode.md:585
-#: ../../Manual/Wired-CCD/source/barcode.md:601
-#: ../../Manual/Wired-CCD/source/barcode.md:617
-#: ../../Manual/Wired-CCD/source/barcode.md:634
-#: ../../Manual/Wired-CCD/source/barcode.md:651
-#: ../../Manual/Wired-CCD/source/barcode.md:702
-#: ../../Manual/Wired-CCD/source/barcode.md:736
-#: ../../Manual/Wired-CCD/source/barcode.md:752
-#: ../../Manual/Wired-CCD/source/barcode.md:771
-#: ../../Manual/Wired-CCD/source/barcode.md:790
-#: ../../Manual/Wired-CCD/source/barcode.md:808
-#: ../../Manual/Wired-CCD/source/barcode.md:842
-#: ../../Manual/Wired-CCD/source/barcode.md:867
-#: ../../Manual/Wired-CCD/source/barcode.md:912
-#: ../../Manual/Wired-CCD/source/barcode.md:939
-#: ../../Manual/Wired-CCD/source/barcode.md:957
-#: ../../Manual/Wired-CCD/source/barcode.md:973
-#: ../../Manual/Wired-CCD/source/barcode.md:989
-#: ../../Manual/Wired-CCD/source/barcode.md:1016
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:18
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:77
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:138
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:203
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:246
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:263
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:330
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:372
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:425
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:467
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:501
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:569
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:585
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:601
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:617
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:634
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:651
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:702
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:736
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:752
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:771
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:790
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:808
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:842
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:867
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:912
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:939
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:957
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:973
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:989
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:1016
 msgid "`*` Disable"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:21
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:21
 msgid "EAN-8"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:23
-#: ../../Manual/Wired-CCD/source/barcode.md:115
-#: ../../Manual/Wired-CCD/source/barcode.md:276
-#: ../../Manual/Wired-CCD/source/barcode.md:386
-#: ../../Manual/Wired-CCD/source/barcode.md:479
-#: ../../Manual/Wired-CCD/source/barcode.md:514
-#: ../../Manual/Wired-CCD/source/barcode.md:532
-#: ../../Manual/Wired-CCD/source/barcode.md:680
-#: ../../Manual/Wired-CCD/source/barcode.md:714
-#: ../../Manual/Wired-CCD/source/barcode.md:765
-#: ../../Manual/Wired-CCD/source/barcode.md:784
-#: ../../Manual/Wired-CCD/source/barcode.md:802
-#: ../../Manual/Wired-CCD/source/barcode.md:820
-#: ../../Manual/Wired-CCD/source/barcode.md:879
-#: ../../Manual/Wired-CCD/source/barcode.md:906
-#: ../../Manual/Wired-CCD/source/barcode.md:933
-#: ../../Manual/Wired-CCD/source/barcode.md:951
-#: ../../Manual/Wired-CCD/source/barcode.md:1010
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:23
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:115
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:276
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:386
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:479
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:514
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:532
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:680
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:714
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:765
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:784
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:802
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:820
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:879
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:906
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:933
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:951
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:1010
 msgid "Enable/Disable"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:29
-#: ../../Manual/Wired-CCD/source/barcode.md:45
-#: ../../Manual/Wired-CCD/source/barcode.md:61
-#: ../../Manual/Wired-CCD/source/barcode.md:121
-#: ../../Manual/Wired-CCD/source/barcode.md:170
-#: ../../Manual/Wired-CCD/source/barcode.md:186
-#: ../../Manual/Wired-CCD/source/barcode.md:282
-#: ../../Manual/Wired-CCD/source/barcode.md:298
-#: ../../Manual/Wired-CCD/source/barcode.md:314
-#: ../../Manual/Wired-CCD/source/barcode.md:392
-#: ../../Manual/Wired-CCD/source/barcode.md:408
-#: ../../Manual/Wired-CCD/source/barcode.md:485
-#: ../../Manual/Wired-CCD/source/barcode.md:520
-#: ../../Manual/Wired-CCD/source/barcode.md:538
-#: ../../Manual/Wired-CCD/source/barcode.md:554
-#: ../../Manual/Wired-CCD/source/barcode.md:686
-#: ../../Manual/Wired-CCD/source/barcode.md:720
-#: ../../Manual/Wired-CCD/source/barcode.md:826
-#: ../../Manual/Wired-CCD/source/barcode.md:885
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:29
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:45
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:61
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:121
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:170
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:186
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:282
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:298
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:314
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:392
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:408
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:485
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:520
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:538
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:554
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:686
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:720
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:826
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:885
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:36
-#: ../../Manual/Wired-CCD/source/barcode.md:52
-#: ../../Manual/Wired-CCD/source/barcode.md:68
-#: ../../Manual/Wired-CCD/source/barcode.md:128
-#: ../../Manual/Wired-CCD/source/barcode.md:177
-#: ../../Manual/Wired-CCD/source/barcode.md:193
-#: ../../Manual/Wired-CCD/source/barcode.md:289
-#: ../../Manual/Wired-CCD/source/barcode.md:305
-#: ../../Manual/Wired-CCD/source/barcode.md:321
-#: ../../Manual/Wired-CCD/source/barcode.md:399
-#: ../../Manual/Wired-CCD/source/barcode.md:415
-#: ../../Manual/Wired-CCD/source/barcode.md:492
-#: ../../Manual/Wired-CCD/source/barcode.md:527
-#: ../../Manual/Wired-CCD/source/barcode.md:545
-#: ../../Manual/Wired-CCD/source/barcode.md:561
-#: ../../Manual/Wired-CCD/source/barcode.md:693
-#: ../../Manual/Wired-CCD/source/barcode.md:727
-#: ../../Manual/Wired-CCD/source/barcode.md:833
-#: ../../Manual/Wired-CCD/source/barcode.md:892
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:36
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:52
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:68
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:128
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:177
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:193
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:289
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:305
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:321
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:399
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:415
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:492
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:527
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:545
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:561
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:693
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:727
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:833
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:892
 msgid "`*` Enable"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:39
-#: ../../Manual/Wired-CCD/source/barcode.md:164
-#: ../../Manual/Wired-CCD/source/barcode.md:292
-#: ../../Manual/Wired-CCD/source/barcode.md:402
-#: ../../Manual/Wired-CCD/source/barcode.md:548
-#: ../../Manual/Wired-CCD/source/barcode.md:967
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:39
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:164
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:292
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:402
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:548
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:967
 msgid "Transmit Check Character"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:55
-#: ../../Manual/Wired-CCD/source/barcode.md:180
-#: ../../Manual/Wired-CCD/source/barcode.md:308
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:55
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:180
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:308
 msgid "Transmit System Characters"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:71
-#: ../../Manual/Wired-CCD/source/barcode.md:197
-#: ../../Manual/Wired-CCD/source/barcode.md:324
-#: ../../Manual/Wired-CCD/source/barcode.md:419
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:71
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:197
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:324
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:419
 msgid "Add-On Code"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:84
-#: ../../Manual/Wired-CCD/source/barcode.md:210
-#: ../../Manual/Wired-CCD/source/barcode.md:337
-#: ../../Manual/Wired-CCD/source/barcode.md:432
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:84
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:210
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:337
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:432
 msgid "Enable 2-Digit Add-On Code"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:91
-#: ../../Manual/Wired-CCD/source/barcode.md:217
-#: ../../Manual/Wired-CCD/source/barcode.md:344
-#: ../../Manual/Wired-CCD/source/barcode.md:439
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:91
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:217
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:344
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:439
 msgid "Enable 5-Digit Add-On Code"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:98
-#: ../../Manual/Wired-CCD/source/barcode.md:224
-#: ../../Manual/Wired-CCD/source/barcode.md:351
-#: ../../Manual/Wired-CCD/source/barcode.md:446
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:98
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:224
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:351
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:446
 msgid "Enable 2-Digit And 5-Digit Additional Codes"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:105
-#: ../../Manual/Wired-CCD/source/barcode.md:231
-#: ../../Manual/Wired-CCD/source/barcode.md:358
-#: ../../Manual/Wired-CCD/source/barcode.md:453
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:105
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:231
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:358
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:453
 msgid "Force Enable"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:109
-#: ../../Manual/Wired-CCD/source/barcode.md:235
-#: ../../Manual/Wired-CCD/source/barcode.md:362
-#: ../../Manual/Wired-CCD/source/barcode.md:457
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:109
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:235
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:362
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:457
 msgid "`Disable`:When the scanner scans a barcode with an additional code, it decodes the barcode and ignores the additional code. The scanner can also decode barcodes without the additional code."
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:110
-#: ../../Manual/Wired-CCD/source/barcode.md:236
-#: ../../Manual/Wired-CCD/source/barcode.md:363
-#: ../../Manual/Wired-CCD/source/barcode.md:458
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:110
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:236
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:363
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:458
 msgid "`Force Enable`:Scanner only decodes mixed barcodes with additional codes."
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:113
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:113
 msgid "EAN-13"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:131
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:131
 msgid "UPC/EAN Multiple Verification"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:148
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:148
 msgid "UPC/EAN Security Level"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:154
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:154
 msgid "`*` 0"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:161
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:161
 msgid "1"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:239
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:239
 msgid "EAN-13 To ISBN"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:240
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:240
 msgid "ISBN is a book code, which normally outputs 13 digits. When the EAN-13 to ISBN conversion is turned on, the output is a 10-digit ISBN code."
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:256
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:256
 msgid "EAN-13 To ISSN"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:257
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:257
 msgid "ISSN is a magazine code, which normally outputs 13 digits. When the EAN-13 to ISBN conversion is turned on, the output is a 10-digit ISSN code."
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:273
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:273
 msgid "UPC-A"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:366
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:366
 msgid "UPC-A To EAN-13"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:383
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:383
 msgid "UPC-E"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:461
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:461
 msgid "UPC-E To UPC-A"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:477
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:477
 msgid "Codabar"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:495
-#: ../../Manual/Wired-CCD/source/barcode.md:595
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:495
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:595
 msgid "Start And Stop Characters"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:511
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:511
 msgid "Code 11"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:529
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:529
 msgid "Code 39"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:564
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:564
 msgid "MOD43 Check"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:579
-#: ../../Manual/Wired-CCD/source/barcode.md:696
-#: ../../Manual/Wired-CCD/source/barcode.md:730
-#: ../../Manual/Wired-CCD/source/barcode.md:836
-#: ../../Manual/Wired-CCD/source/barcode.md:983
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:579
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:696
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:730
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:836
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:983
 msgid "Multiple Verification"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:596
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:596
 msgid "The barcode data is preceded and followed by a \"*\" character as the start and stop characters. You can set whether to transmit the start and stop characters together with the barcode data after the barcode is read successfully."
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:611
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:611
 msgid "Full ASCII Support"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:627
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:627
 msgid "Code 32 Setting"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:644
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:644
 msgid "Code32 Prefix A"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:661
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:661
 msgid "Set Minimum Length"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:667
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:667
 msgid "Set Minimum Length to 1"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:674
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:674
 msgid "`*` Set Minimum Length to 2"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:677
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:677
 msgid "Code 93"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:712
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:712
 msgid "Code 128"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:746
-#: ../../Manual/Wired-CCD/source/barcode.md:861
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:746
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:861
 msgid "Brazilian Bank Code"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:762
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:762
 msgid "GS1 DataBar Limited（RSS Limited）"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:781
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:781
 msgid "GS1 DataBar Omnidirectional（RSS Omnidirectional）"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:800
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:800
 msgid "GS1 DataBar Expanded (RSS Expanded)"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:818
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:818
 msgid "Interleaved 2 of 5"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:852
-#: ../../Manual/Wired-CCD/source/barcode.md:858
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:852
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:858
 msgid "Set Minimum Length To 4"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:877
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:877
 msgid "Industrial 2 of 5"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:895
-#: ../../Manual/Wired-CCD/source/barcode.md:901
-#: ../../Manual/Wired-CCD/source/barcode.md:999
-#: ../../Manual/Wired-CCD/source/barcode.md:1005
-#: ../../Manual/Wired-CCD/source/barcode.md:1027
-#: ../../Manual/Wired-CCD/source/barcode.md:1033
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:895
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:901
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:999
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:1005
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:1027
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:1033
 msgid "Set Minimum Length To 3"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:904
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:904
 msgid "Matrix 2 of 5"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:922
-#: ../../Manual/Wired-CCD/source/barcode.md:928
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:922
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:928
 msgid "Set Minimum Length To 2"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:931
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:931
 msgid "China Post"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:949
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:949
 msgid "MSI"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/barcode.md:1008
+#: ../../../Workspace/scanner-document/Wired-CCD/source/barcode.md:1008
 msgid "Plessey/Telepen"
 msgstr ""

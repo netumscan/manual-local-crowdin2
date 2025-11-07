@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,50 +16,50 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless-WiFi/source/tcpserver.md:1
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/tcpserver.md:1
 msgid "Using TCP Server to Transmit Data"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/tcpserver.md:3
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/tcpserver.md:3
 msgid "Quick Configuration"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/tcpserver.md:9
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/tcpserver.md:9
 msgid "When you use third-party software to build a TCP Client, you can use this option for configuration."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/tcpserver.md:13
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/tcpserver.md:13
 msgid "Demo software"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/tcpserver.md:14
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/tcpserver.md:14
 msgid "Click the link below to download the demo software:   [Netum Wi-Fi TCP Client](https://pan.gzxlscan.cn/s/uli95v)"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/tcpserver.md:17
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/tcpserver.md:17
 msgid "Make a connection"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/tcpserver.md:18
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/tcpserver.md:18
 msgid "Download the demo software and unzip it to a folder."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/tcpserver.md:19
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/tcpserver.md:19
 msgid "Open the demonstration software, enter the WiFi information that the scanner needs to connect to and the scanner's IP address and TCP Server port, and use the scanner to scan the QR code below."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/tcpserver.md:23
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/tcpserver.md:23
 msgid "Click the Start button, or start TCP Client through programming to connect to the scanner."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/tcpserver.md:27
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/tcpserver.md:27
 msgid "The software establishes a connection with the scanner, and the indicator light on the scanner is always on."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/tcpserver.md:30
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/tcpserver.md:30
 msgid "Device address: The IP address of the scanner in the local area network."
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/tcpserver.md:31
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/tcpserver.md:31
 msgid "Device port: The port number of the TCP Server opened by the scanner."
 msgstr ""

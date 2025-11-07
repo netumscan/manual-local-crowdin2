@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,86 +16,86 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless-WiFi/source/network.md:1
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:1
 msgid "Network Configuration"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:3
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:3
 msgid "Dynamic IP Address Configuration"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:5
-#: ../../Manual/Wireless-WiFi/source/network.md:44
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:5
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:44
 msgid "1.Restore WiFi module default settings"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:11
-#: ../../Manual/Wireless-WiFi/source/network.md:50
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:11
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:50
 msgid "Restore WiFi module default settings"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:14
-#: ../../Manual/Wireless-WiFi/source/network.md:53
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:14
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:53
 msgid "2.Set static IP mode"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:20
-#: ../../Manual/Wireless-WiFi/source/network.md:59
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:20
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:59
 msgid "Set static IP mode"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:24
-#: ../../Manual/Wireless-WiFi/source/network.md:63
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:24
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:63
 msgid "3.Restart Scanner"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:30
-#: ../../Manual/Wireless-WiFi/source/network.md:69
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:30
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:69
 msgid "Restart Scanner"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:33
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:33
 msgid "4.Configure transmission scheme"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:34
-#: ../../Manual/Wireless-WiFi/source/network.md:96
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:34
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:96
 msgid "After configuring the network parameters, select the transmission method below to configure"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:35
-#: ../../Manual/Wireless-WiFi/source/network.md:36
-#: ../../Manual/Wireless-WiFi/source/network.md:97
-#: ../../Manual/Wireless-WiFi/source/network.md:98
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:35
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:36
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:97
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:98
 msgid "<project:tcpserver.md>"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:37
-#: ../../Manual/Wireless-WiFi/source/network.md:99
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:37
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:99
 msgid "<project:mqtt.md>"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:38
-#: ../../Manual/Wireless-WiFi/source/network.md:100
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:38
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:100
 msgid "<project:http.md>"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:42
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:42
 msgid "Static IP Address Configuration"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:73
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:73
 msgid "4.Set IP address"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:80
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:80
 msgid "5.Setting the Gateway"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:87
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:87
 msgid "6.Set the subnet mask"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/network.md:95
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/network.md:95
 msgid "7.Configure transmission scheme"
 msgstr ""

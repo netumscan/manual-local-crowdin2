@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-29 10:15+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,58 +16,58 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless/source/intro.md:1
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:1
 msgid "Connection Way"
 msgstr ""
 
-#: ../../Manual/Wireless/source/intro.md:3
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:3
 msgid "Scanner can be connected to your device via bluetooth, USB receiver or USB cable, you can choose one of the connection way to connect scanner with your device."
 msgstr ""
 
-#: ../../Manual/Wireless/source/intro.md:6
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:6
 msgid "Scanning a setting code to switch modes is not supported. You must use the physical switch on the bottom of the scanner to change connection modes."
 msgstr ""
 
-#: ../../Manual/Wireless/source/intro.md:9
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:9
 msgid "Working Via USB Cable"
 msgstr ""
 
-#: ../../Manual/Wireless/source/intro.md:10
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:10
 msgid "Connect scanner with your device via USB cable. If you use US keyboard, it's plug and play. If you use other type of keyboard , please refer to \"[keyboard language](keyboard.md#keyboard-language)\" to configure the keyboard language before you use it."
 msgstr ""
 
-#: ../../Manual/Wireless/source/intro.md:12
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:12
 msgid "Working Via USB Dongle (Wireless Mode)"
 msgstr ""
 
-#: ../../Manual/Wireless/source/intro.md:18
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:18
 msgid "① Slide the switch on the bottom of the scanner to the right."
 msgstr ""
 
-#: ../../Manual/Wireless/source/intro.md:19
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:19
 msgid "② Plug the USB dongle into your computer."
 msgstr ""
 
-#: ../../Manual/Wireless/source/intro.md:20
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:20
 msgid "③ If you're using a U.S. keyboard layout, it's plug and play."
 msgstr ""
 
-#: ../../Manual/Wireless/source/intro.md:21
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:21
 msgid "④ If you're using a different keyboard layout, please refer to the \" Keyboard Language\" section to configure the correct settings before use."
 msgstr ""
 
-#: ../../Manual/Wireless/source/intro.md:23
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:23
 msgid "Working Via Bluetooth"
 msgstr ""
 
-#: ../../Manual/Wireless/source/intro.md:29
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:29
 msgid "① Slide the switch on the bottom of the scanner to the left."
 msgstr ""
 
-#: ../../Manual/Wireless/source/intro.md:30
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:30
 msgid "② Turn on Bluetooth on your host device and look for  `CPRO barcode scanner` in the list of available devices. Tap it to pair."
 msgstr ""
 
-#: ../../Manual/Wireless/source/intro.md:31
+#: ../../../Workspace/scanner-document/Wireless/source/intro.md:31
 msgid "③ The default keyboard layout is US. If you're using a different keyboard layout, please set the correct keyboard language before using the scanner."
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-21 10:48+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,134 +16,134 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless/source/system.md:1
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:1
 msgid "System Settings"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:3
-#: ../../Manual/Wireless/source/system.md:10
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:3
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:10
 msgid "Restore Default Settings"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:4
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:4
 msgid "When an unknown error occurs on the scanner, you can reset the scanner by restoring the default settings."
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:14
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:14
 msgid "Restore Defaults Restore 2.4G receiver mode by default."
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:17
-#: ../../Manual/Wireless/source/system.md:22
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:17
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:22
 msgid "Get Firmware Version"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:25
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:25
 msgid "Volume Settings"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:26
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:26
 msgid "Scan the corresponding setting code to turn on/off the sound prompt of the scanner"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:32
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:32
 msgid "`*` Enable"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:39
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:39
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:41
-#: ../../Manual/Wireless/source/system.md:46
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:41
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:46
 msgid "High Volume"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:49
-#: ../../Manual/Wireless/source/system.md:54
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:49
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:54
 msgid "Medium Volume"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:57
-#: ../../Manual/Wireless/source/system.md:62
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:57
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:62
 msgid "Low Volume"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:65
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:65
 msgid "Sound Case"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:66
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:66
 msgid "Storage mode scan code, shutdown prompt"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:73
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:73
 msgid "Power-on prompt, setting command prompt, upload mode transmission completion prompt"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:80
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:80
 msgid "A short beep: barcode scan successful prompt"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:86
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:86
 msgid "Continuous short beeps for 30 seconds: Pairing mode waiting for the receiver to be inserted, the beep stops after pairing is successful"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:94
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:94
 msgid "(During scanning) Battery low voltage alarm"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:101
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:101
 msgid "Storage error or over storage capacity alarm in storage mode"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:108
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:108
 msgid "Low battery power failure prompt tone"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:117
-#: ../../Manual/Wireless/source/system.md:123
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:117
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:123
 msgid "Battery Information"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:127
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:127
 msgid "*Get the meaning of the voltage in the power upload data*<br>≥4.2V: Fully powered.<br>≤3.7V: The battery is low and the device will beep twice when you scan the code, indicating that it needs to be charged (it can still be used normally).<br> ≤3.5V: The battery is low and the button will beep five times, indicating that the battery needs to be charged before use."
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:131
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:131
 msgid "Sleep Time"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:133
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:133
 msgid "By scanning the following setting code, you can set the scanner to enter sleep mode after a certain period of time when no code is scanned, so as to reduce power consumption."
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:137
-#: ../../Manual/Wireless/source/system.md:143
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:137
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:143
 msgid "Shutdown"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:146
-#: ../../Manual/Wireless/source/system.md:152
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:146
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:152
 msgid "Sleep after 1 minutes of idle time"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:155
-#: ../../Manual/Wireless/source/system.md:161
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:155
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:161
 msgid "Sleep after 3 minutes of idle time"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:164
-#: ../../Manual/Wireless/source/system.md:170
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:164
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:170
 msgid "Sleep after 10 minutes of idle time"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:173
-#: ../../Manual/Wireless/source/system.md:179
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:173
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:179
 msgid "Sleep after 30 minutes of idle time"
 msgstr ""
 
-#: ../../Manual/Wireless/source/system.md:182
-#: ../../Manual/Wireless/source/system.md:188
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:182
+#: ../../../Workspace/scanner-document/Wireless/source/system.md:188
 msgid "No sleep"
 msgstr ""

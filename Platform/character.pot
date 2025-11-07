@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-21 08:49+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,34 +16,34 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Platform/source/character.md:1
+#: ../../../Workspace/scanner-document/Platform/source/character.md:1
 msgid "Terminator"
 msgstr ""
 
-#: ../../Manual/Platform/source/character.md:2
+#: ../../../Workspace/scanner-document/Platform/source/character.md:2
 msgid "End Character Settings"
 msgstr ""
 
-#: ../../Manual/Platform/source/character.md:4
+#: ../../../Workspace/scanner-document/Platform/source/character.md:4
 msgid "The end character is added after the decoded data in the format of decoded data + end character."
 msgstr ""
 
-#: ../../Manual/Platform/source/character.md:6
-#: ../../Manual/Platform/source/character.md:11
+#: ../../../Workspace/scanner-document/Platform/source/character.md:6
+#: ../../../Workspace/scanner-document/Platform/source/character.md:11
 msgid "No End Character"
 msgstr ""
 
-#: ../../Manual/Platform/source/character.md:14
-#: ../../Manual/Platform/source/character.md:19
+#: ../../../Workspace/scanner-document/Platform/source/character.md:14
+#: ../../../Workspace/scanner-document/Platform/source/character.md:19
 msgid "Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Platform/source/character.md:22
-#: ../../Manual/Platform/source/character.md:27
+#: ../../../Workspace/scanner-document/Platform/source/character.md:22
+#: ../../../Workspace/scanner-document/Platform/source/character.md:27
 msgid "Tab(TAB)"
 msgstr ""
 
-#: ../../Manual/Platform/source/character.md:30
-#: ../../Manual/Platform/source/character.md:35
+#: ../../../Workspace/scanner-document/Platform/source/character.md:30
+#: ../../../Workspace/scanner-document/Platform/source/character.md:35
 msgid "Enter+New Line(CRLF)"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-21 10:48+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,66 +16,66 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless/source/wired.md:1
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:1
 msgid "Wired Mode"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wired.md:3
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:3
 msgid "Transmission Mode"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wired.md:5
-#: ../../Manual/Wireless/source/wired.md:11
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:5
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:11
 msgid "USB Cable as Keyboard"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wired.md:14
-#: ../../Manual/Wireless/source/wired.md:20
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:14
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:20
 msgid "USB Cable as Virtual COM"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wired.md:23
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:23
 msgid "Automatic Selection Of Wired/Wireless Transmission"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wired.md:29
-#: ../../Manual/Wireless/source/wired.md:83
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:29
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:83
 msgid "Enable"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wired.md:36
-#: ../../Manual/Wireless/source/wired.md:90
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:36
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:90
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wired.md:39
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:39
 msgid "USB Keyboard Speed"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wired.md:41
-#: ../../Manual/Wireless/source/wired.md:47
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:41
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:47
 msgid "Get Keyboard Speed"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wired.md:50
-#: ../../Manual/Wireless/source/wired.md:56
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:50
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:56
 msgid "High Speed"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wired.md:59
-#: ../../Manual/Wireless/source/wired.md:65
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:59
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:65
 msgid "Middle Speed"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wired.md:68
-#: ../../Manual/Wireless/source/wired.md:74
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:68
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:74
 msgid "Low Speed"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wired.md:77
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:77
 msgid "USB HID Multi-Key Send Set"
 msgstr ""
 
-#: ../../Manual/Wireless/source/wired.md:94
+#: ../../../Workspace/scanner-document/Wireless/source/wired.md:94
 msgid "This setting is only available on Windows."
 msgstr ""

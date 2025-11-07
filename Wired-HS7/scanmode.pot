@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,54 +16,54 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-HS7/source/scanmode.md:1
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:1
 msgid "Scan Mode"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/scanmode.md:3
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:3
 msgid "Key Trigger Mode"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/scanmode.md:4
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:4
 msgid "Press the button to trigger scanning, and release the button to end scanning. Scanning ends when the scan is successful or the reading time exceeds the single reading time."
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/scanmode.md:11
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:11
 msgid "`*` Key Trigger Mode"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/scanmode.md:14
-#: ../../Manual/Wired-HS7/source/scanmode.md:21
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:14
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:21
 msgid "Continuous Mode"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/scanmode.md:15
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:15
 msgid "The scanner works continuously. If the scan is successful or the scan time exceeds the single working time, the current scan ends. If the time exceeds the specified time, the next scan is automatically triggered."
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/scanmode.md:24
-#: ../../Manual/Wired-HS7/source/scanmode.md:31
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:24
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:31
 msgid "Auto Sensing Mode"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/scanmode.md:25
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:25
 msgid "In the auto sensing mode, the scanner will detect the brightness of the surrounding environment. When the brightness changes, the scan is triggered. The scan ends when the scan is successful or the scan time exceeds the single working time. Regardless of whether the last scan was successful or failed, the brightness of the surrounding environment will be detected again."
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/scanmode.md:34
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:34
 msgid "Scanning Interval"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/scanmode.md:35
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:35
 msgid "Working delay when scanning different barcodes"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/scanmode.md:37
-#: ../../Manual/Wired-HS7/source/scanmode.md:42
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:37
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:42
 msgid "No Time Interval"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/scanmode.md:45
-#: ../../Manual/Wired-HS7/source/scanmode.md:50
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:45
+#: ../../../Workspace/scanner-document/Wired-HS7/source/scanmode.md:50
 msgid "500ms"
 msgstr ""

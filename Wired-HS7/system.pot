@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,84 +16,84 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-HS7/source/system.md:1
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:1
 msgid "System Settings"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:3
-#: ../../Manual/Wired-HS7/source/system.md:10
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:3
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:10
 msgid "Restore Default Settings"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:4
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:4
 msgid "When an unknown error occurs on the scanner, you can reset the scanner by restoring the default settings."
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:14
-#: ../../Manual/Wired-HS7/source/system.md:20
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:14
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:20
 msgid "Get Firmware Version"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:23
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:23
 msgid "Volume Settings"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:25
-#: ../../Manual/Wired-HS7/source/system.md:30
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:25
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:30
 msgid "Low Volume"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:33
-#: ../../Manual/Wired-HS7/source/system.md:38
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:33
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:38
 msgid "Medium Volume"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:41
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:41
 msgid "High Volume"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:46
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:46
 msgid "`*` High Volume"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:49
-#: ../../Manual/Wired-HS7/source/system.md:54
-#: ../../Manual/Wired-HS7/source/system.md:70
-#: ../../Manual/Wired-HS7/source/system.md:75
-#: ../../Manual/Wired-HS7/source/system.md:93
-#: ../../Manual/Wired-HS7/source/system.md:98
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:49
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:54
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:70
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:75
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:93
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:98
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:58
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:58
 msgid "Lighting Light"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:60
-#: ../../Manual/Wired-HS7/source/system.md:65
-#: ../../Manual/Wired-HS7/source/system.md:83
-#: ../../Manual/Wired-HS7/source/system.md:88
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:60
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:65
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:83
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:88
 msgid "Enable"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:80
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:80
 msgid "Aiming Light"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:102
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:102
 msgid "USB Mode"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:103
-#: ../../Manual/Wired-HS7/source/system.md:109
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:103
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:109
 msgid "USB Keyboard"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:113
-#: ../../Manual/Wired-HS7/source/system.md:119
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:113
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:119
 msgid "USB Serial Port"
 msgstr ""
 
-#: ../../Manual/Wired-HS7/source/system.md:123
+#: ../../../Workspace/scanner-document/Wired-HS7/source/system.md:123
 msgid "Connect to the computer and scan the [USB Keyboard](#usb-keyboard) barcode to configure the scanner to keyboard mode. In the application software environment where the serial port is required, scan [USB Serial Port](#usb-serial-port) and it will be identified as USB COM type, requiring the user to install the driver (the default configuration of this barcode is: 115200 baud rate, 8 data bits, no parity bit, 1 stop bit)."
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,80 +16,80 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:1
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:1
 msgid "Scan Mode"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:3
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:3
 msgid "Key Trigger Mode"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:4
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:4
 msgid "Press the button to trigger scanning, and release the button to end scanning. Scanning ends when the scan is successful or the reading time exceeds the single reading time."
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:10
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:10
 msgid "`*` Key Trigger Mode"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:13
-#: ../../Manual/Wired-CCD/source/scanmode.md:20
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:13
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:20
 msgid "Continuous Mode"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:14
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:14
 msgid "The scanner works continuously. If the scan is successful or the scan time exceeds the single working time, the current scan ends. If the time exceeds the specified time, the next scan is automatically triggered."
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:24
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:24
 msgid "Auto Sensing Mode"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:25
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:25
 msgid "In the auto sensing mode, the scanner will detect the brightness of the surrounding environment. When the brightness changes, the scan is triggered. The scan ends when the scan is successful or the scan time exceeds the single working time. Regardless of whether the last scan was successful or failed, the brightness of the surrounding environment will be detected again."
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:27
-#: ../../Manual/Wired-CCD/source/scanmode.md:48
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:27
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:48
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:33
-#: ../../Manual/Wired-CCD/source/scanmode.md:54
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:33
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:54
 msgid "`*` Disable"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:37
-#: ../../Manual/Wired-CCD/source/scanmode.md:43
-#: ../../Manual/Wired-CCD/source/scanmode.md:57
-#: ../../Manual/Wired-CCD/source/scanmode.md:63
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:37
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:43
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:57
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:63
 msgid "Enable"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:46
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:46
 msgid "Duplicate Barcode Detection Settings"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:66
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:66
 msgid "Repeat Barcode Interval"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:72
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:72
 msgid "1s"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:79
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:79
 msgid "2s"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:86
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:86
 msgid "3s"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:93
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:93
 msgid "5s"
 msgstr ""
 
-#: ../../Manual/Wired-CCD/source/scanmode.md:100
+#: ../../../Workspace/scanner-document/Wired-CCD/source/scanmode.md:100
 msgid "10s"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 10:04+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,44 +16,44 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Reader/source/scanmode.md:1
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:1
 msgid "Scan Mode"
 msgstr ""
 
-#: ../../Manual/Reader/source/scanmode.md:3
-#: ../../Manual/Reader/source/scanmode.md:13
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:3
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:13
 msgid "Start Setup"
 msgstr ""
 
-#: ../../Manual/Reader/source/scanmode.md:6
-#: ../../Manual/Reader/source/scanmode.md:56
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:6
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:56
 msgid "Only after scanning [Start Setup](#start-setup) can you scan other function setup codes for configuration. You need to scan [End Setup](#end-setup) for the corresponding configuration to take effect."
 msgstr ""
 
-#: ../../Manual/Reader/source/scanmode.md:16
-#: ../../Manual/Reader/source/scanmode.md:22
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:16
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:22
 msgid "Continuous Mode"
 msgstr ""
 
-#: ../../Manual/Reader/source/scanmode.md:25
-#: ../../Manual/Reader/source/scanmode.md:31
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:25
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:31
 msgid "Auto Sensing Mode"
 msgstr ""
 
-#: ../../Manual/Reader/source/scanmode.md:34
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:34
 msgid "Enable Scanning QR"
 msgstr ""
 
-#: ../../Manual/Reader/source/scanmode.md:40
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:40
 msgid "`*` Enable Scanning QR"
 msgstr ""
 
-#: ../../Manual/Reader/source/scanmode.md:43
-#: ../../Manual/Reader/source/scanmode.md:49
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:43
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:49
 msgid "Disable Scanning QR"
 msgstr ""
 
-#: ../../Manual/Reader/source/scanmode.md:53
-#: ../../Manual/Reader/source/scanmode.md:63
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:53
+#: ../../../Workspace/scanner-document/Reader/source/scanmode.md:63
 msgid "End Setup"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,114 +16,114 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wireless-WiFi/source/http.md:1
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:1
 msgid "Use HTTP protocol to transfer data"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:3
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:3
 msgid "Create REST API"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:4
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:4
 msgid "Brief Description"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:5
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:5
 msgid "Scanner data upload interface"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:7
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:7
 msgid "Request URL"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:8
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:8
 msgid "https://httpbin.org/post"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:10
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:10
 msgid "Request Mode"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:11
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:11
 msgid "POST"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:13
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:13
 msgid "Request Parameters"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:19
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:19
 msgid "Parameter name"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:19
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:19
 msgid "required"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:19
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:19
 msgid "type"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:19
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:19
 msgid "description"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:19
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:19
 msgid "id"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:19
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:19
 msgid "yes"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:19
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:19
 msgid "string"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:19
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:19
 msgid "device Id"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:19
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:19
 msgid "msg"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:19
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:19
 msgid "Scan Content"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:23
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:23
 msgid "Request Example"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:30
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:30
 msgid "Return Parameter"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:32
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:32
 msgid "For details, see [Data receiving format](wireless.md#data-rceiving-format)"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:35
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:35
 msgid "Configure Scanner"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:37
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:37
 msgid "Set the Content-Type of the scanner request"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:44
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:44
 msgid "Application/Json"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:47
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:47
 msgid "Set the data format sent by the scanner"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:54
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:54
 msgid "Json Format"
 msgstr ""
 
-#: ../../Manual/Wireless-WiFi/source/http.md:58
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/http.md:58
 msgid "Configure WiFi and API URL address"
 msgstr ""

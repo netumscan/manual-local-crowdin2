@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-29 10:14+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,687 +16,687 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-DP/source/barcode.md:1
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1
 msgid "Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:3
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:3
 msgid "All Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:9
-#: ../../Manual/Wired-DP/source/barcode.md:26
-#: ../../Manual/Wired-DP/source/barcode.md:42
-#: ../../Manual/Wired-DP/source/barcode.md:86
-#: ../../Manual/Wired-DP/source/barcode.md:110
-#: ../../Manual/Wired-DP/source/barcode.md:149
-#: ../../Manual/Wired-DP/source/barcode.md:168
-#: ../../Manual/Wired-DP/source/barcode.md:207
-#: ../../Manual/Wired-DP/source/barcode.md:245
-#: ../../Manual/Wired-DP/source/barcode.md:280
-#: ../../Manual/Wired-DP/source/barcode.md:300
-#: ../../Manual/Wired-DP/source/barcode.md:316
-#: ../../Manual/Wired-DP/source/barcode.md:400
-#: ../../Manual/Wired-DP/source/barcode.md:418
-#: ../../Manual/Wired-DP/source/barcode.md:436
-#: ../../Manual/Wired-DP/source/barcode.md:472
-#: ../../Manual/Wired-DP/source/barcode.md:600
-#: ../../Manual/Wired-DP/source/barcode.md:712
-#: ../../Manual/Wired-DP/source/barcode.md:1114
-#: ../../Manual/Wired-DP/source/barcode.md:1150
-#: ../../Manual/Wired-DP/source/barcode.md:1185
-#: ../../Manual/Wired-DP/source/barcode.md:1220
-#: ../../Manual/Wired-DP/source/barcode.md:1257
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:9
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:26
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:42
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:86
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:110
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:149
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:168
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:207
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:245
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:280
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:300
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:316
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:400
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:418
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:436
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:472
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:600
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:712
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1114
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1150
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1185
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1220
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1257
 msgid "Disable"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:16
-#: ../../Manual/Wired-DP/source/barcode.md:33
-#: ../../Manual/Wired-DP/source/barcode.md:49
-#: ../../Manual/Wired-DP/source/barcode.md:94
-#: ../../Manual/Wired-DP/source/barcode.md:99
-#: ../../Manual/Wired-DP/source/barcode.md:231
-#: ../../Manual/Wired-DP/source/barcode.md:270
-#: ../../Manual/Wired-DP/source/barcode.md:340
-#: ../../Manual/Wired-DP/source/barcode.md:357
-#: ../../Manual/Wired-DP/source/barcode.md:375
-#: ../../Manual/Wired-DP/source/barcode.md:518
-#: ../../Manual/Wired-DP/source/barcode.md:534
-#: ../../Manual/Wired-DP/source/barcode.md:571
-#: ../../Manual/Wired-DP/source/barcode.md:588
-#: ../../Manual/Wired-DP/source/barcode.md:643
-#: ../../Manual/Wired-DP/source/barcode.md:660
-#: ../../Manual/Wired-DP/source/barcode.md:858
-#: ../../Manual/Wired-DP/source/barcode.md:895
-#: ../../Manual/Wired-DP/source/barcode.md:932
-#: ../../Manual/Wired-DP/source/barcode.md:948
-#: ../../Manual/Wired-DP/source/barcode.md:983
-#: ../../Manual/Wired-DP/source/barcode.md:1017
-#: ../../Manual/Wired-DP/source/barcode.md:1070
-#: ../../Manual/Wired-DP/source/barcode.md:1086
-#: ../../Manual/Wired-DP/source/barcode.md:1102
-#: ../../Manual/Wired-DP/source/barcode.md:1300
-#: ../../Manual/Wired-DP/source/barcode.md:1338
-#: ../../Manual/Wired-DP/source/barcode.md:1354
-#: ../../Manual/Wired-DP/source/barcode.md:1370
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:16
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:33
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:49
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:94
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:99
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:231
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:270
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:340
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:357
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:375
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:518
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:534
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:571
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:588
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:643
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:660
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:858
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:895
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:932
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:948
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:983
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1017
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1070
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1086
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1102
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1300
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1338
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1354
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1370
 msgid "Enable"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:20
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:20
 msgid "1D Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:36
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:36
 msgid "2D Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:52
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:52
 msgid "1D Reverse Symbologies"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:55
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:55
 msgid "**Regular barcode**: Dark image on a bright background."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:56
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:56
 msgid "**Inverse barcode**: Bright image on a dark background."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:63
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:63
 msgid "`*` Only Supports Regular Barcode"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:71
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:71
 msgid "Only Supports Inverse Barcode"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:79
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:79
 msgid "All Supported"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:83
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:83
 msgid "Block Barcodes With URLs"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:84
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:84
 msgid "Block scanning of URL QR codes starting with `http://`, `https://`"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:91
-#: ../../Manual/Wired-DP/source/barcode.md:224
-#: ../../Manual/Wired-DP/source/barcode.md:263
-#: ../../Manual/Wired-DP/source/barcode.md:333
-#: ../../Manual/Wired-DP/source/barcode.md:350
-#: ../../Manual/Wired-DP/source/barcode.md:368
-#: ../../Manual/Wired-DP/source/barcode.md:488
-#: ../../Manual/Wired-DP/source/barcode.md:511
-#: ../../Manual/Wired-DP/source/barcode.md:527
-#: ../../Manual/Wired-DP/source/barcode.md:564
-#: ../../Manual/Wired-DP/source/barcode.md:581
-#: ../../Manual/Wired-DP/source/barcode.md:636
-#: ../../Manual/Wired-DP/source/barcode.md:653
-#: ../../Manual/Wired-DP/source/barcode.md:670
-#: ../../Manual/Wired-DP/source/barcode.md:728
-#: ../../Manual/Wired-DP/source/barcode.md:851
-#: ../../Manual/Wired-DP/source/barcode.md:888
-#: ../../Manual/Wired-DP/source/barcode.md:925
-#: ../../Manual/Wired-DP/source/barcode.md:941
-#: ../../Manual/Wired-DP/source/barcode.md:976
-#: ../../Manual/Wired-DP/source/barcode.md:1010
-#: ../../Manual/Wired-DP/source/barcode.md:1063
-#: ../../Manual/Wired-DP/source/barcode.md:1079
-#: ../../Manual/Wired-DP/source/barcode.md:1095
-#: ../../Manual/Wired-DP/source/barcode.md:1293
-#: ../../Manual/Wired-DP/source/barcode.md:1331
-#: ../../Manual/Wired-DP/source/barcode.md:1347
-#: ../../Manual/Wired-DP/source/barcode.md:1363
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:91
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:224
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:263
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:333
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:350
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:368
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:488
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:511
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:527
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:564
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:581
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:636
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:653
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:670
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:728
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:851
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:888
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:925
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:941
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:976
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1010
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1063
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1079
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1095
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1293
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1331
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1347
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1363
 msgid "`*` Disable"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:102
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:102
 msgid "UPC-A"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:104
-#: ../../Manual/Wired-DP/source/barcode.md:162
-#: ../../Manual/Wired-DP/source/barcode.md:239
-#: ../../Manual/Wired-DP/source/barcode.md:294
-#: ../../Manual/Wired-DP/source/barcode.md:394
-#: ../../Manual/Wired-DP/source/barcode.md:412
-#: ../../Manual/Wired-DP/source/barcode.md:430
-#: ../../Manual/Wired-DP/source/barcode.md:466
-#: ../../Manual/Wired-DP/source/barcode.md:594
-#: ../../Manual/Wired-DP/source/barcode.md:630
-#: ../../Manual/Wired-DP/source/barcode.md:706
-#: ../../Manual/Wired-DP/source/barcode.md:845
-#: ../../Manual/Wired-DP/source/barcode.md:882
-#: ../../Manual/Wired-DP/source/barcode.md:919
-#: ../../Manual/Wired-DP/source/barcode.md:970
-#: ../../Manual/Wired-DP/source/barcode.md:1057
-#: ../../Manual/Wired-DP/source/barcode.md:1108
-#: ../../Manual/Wired-DP/source/barcode.md:1144
-#: ../../Manual/Wired-DP/source/barcode.md:1179
-#: ../../Manual/Wired-DP/source/barcode.md:1214
-#: ../../Manual/Wired-DP/source/barcode.md:1251
-#: ../../Manual/Wired-DP/source/barcode.md:1287
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:104
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:162
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:239
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:294
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:394
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:412
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:430
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:466
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:594
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:630
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:706
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:845
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:882
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:919
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:970
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1057
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1108
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1144
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1179
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1214
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1251
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1287
 msgid "Enable/Disable"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:117
-#: ../../Manual/Wired-DP/source/barcode.md:156
-#: ../../Manual/Wired-DP/source/barcode.md:175
-#: ../../Manual/Wired-DP/source/barcode.md:214
-#: ../../Manual/Wired-DP/source/barcode.md:252
-#: ../../Manual/Wired-DP/source/barcode.md:287
-#: ../../Manual/Wired-DP/source/barcode.md:307
-#: ../../Manual/Wired-DP/source/barcode.md:323
-#: ../../Manual/Wired-DP/source/barcode.md:407
-#: ../../Manual/Wired-DP/source/barcode.md:425
-#: ../../Manual/Wired-DP/source/barcode.md:443
-#: ../../Manual/Wired-DP/source/barcode.md:479
-#: ../../Manual/Wired-DP/source/barcode.md:607
-#: ../../Manual/Wired-DP/source/barcode.md:719
-#: ../../Manual/Wired-DP/source/barcode.md:1121
-#: ../../Manual/Wired-DP/source/barcode.md:1157
-#: ../../Manual/Wired-DP/source/barcode.md:1192
-#: ../../Manual/Wired-DP/source/barcode.md:1227
-#: ../../Manual/Wired-DP/source/barcode.md:1264
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:117
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:156
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:175
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:214
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:252
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:287
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:307
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:323
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:407
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:425
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:443
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:479
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:607
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:719
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1121
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1157
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1192
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1227
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1264
 msgid "`*` Enable"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:120
-#: ../../Manual/Wired-DP/source/barcode.md:178
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:120
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:178
 msgid "Transmit Preamble Character"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:121
-#: ../../Manual/Wired-DP/source/barcode.md:179
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:121
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:179
 msgid "Preamble characters (country code and system characters) can be transmitted as part of the UPC-A symbology. Select one of the following options to set and transmit a UPC-A preamble to the host: Transmit system characters only, Transmit system characters and country code (\"0\" for the United States), or Transmit no preamble."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:127
-#: ../../Manual/Wired-DP/source/barcode.md:185
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:127
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:185
 msgid "No System Character"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:134
-#: ../../Manual/Wired-DP/source/barcode.md:192
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:134
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:192
 msgid "`*` System Character"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:140
-#: ../../Manual/Wired-DP/source/barcode.md:198
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:140
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:198
 msgid "System Character & Country Code"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:143
-#: ../../Manual/Wired-DP/source/barcode.md:201
-#: ../../Manual/Wired-DP/source/barcode.md:274
-#: ../../Manual/Wired-DP/source/barcode.md:310
-#: ../../Manual/Wired-DP/source/barcode.md:482
-#: ../../Manual/Wired-DP/source/barcode.md:647
-#: ../../Manual/Wired-DP/source/barcode.md:722
-#: ../../Manual/Wired-DP/source/barcode.md:1004
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:143
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:201
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:274
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:310
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:482
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:647
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:722
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1004
 msgid "Transmit Check Character"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:160
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:160
 msgid "UPC-E"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:217
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:217
 msgid "Convert UPC-E to UPC-A"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:234
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:234
 msgid "When `Enable` is selected,Converts UPC-E decoded data to UPC-A format. After conversion, the data follows the UPC-A format and is affected by UPC-A programming selections (e.g., preamble, check digit)."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:237
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:237
 msgid "EAN-8"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:255
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:255
 msgid "EAN-8 Extension"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:257
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:257
 msgid "When `Enable` is selected, the scanner adds five leading zeros to the decoded EAN-8 barcode to extend to 13 digits."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:292
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:292
 msgid "EAN-13"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:326
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:326
 msgid "Convert EAN13 to ISBN"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:343
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:343
 msgid "Convert EAN13 to ISSN"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:362
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:362
 msgid "UPC/EAN/JAN Add-On Code"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:382
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:382
 msgid "Adaptive"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:386
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:386
 msgid "`Disable`:When the scanner scans a barcode with an additional code, it decodes the barcode and ignores the additional code. The scanner can also decode barcodes without the additional code."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:387
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:387
 msgid "`Enable`:Scanner only decodes mixed barcodes with additional codes."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:388
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:388
 msgid "`Adaptive`:Scanner decodes a mix of barcodes with and without add-on codes."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:392
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:392
 msgid "Code 128"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:410
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:410
 msgid "GS1-128"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:428
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:428
 msgid "ISBT 128"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:446
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:446
 msgid "128 Barcode Length Limit Setting"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:453
-#: ../../Manual/Wired-DP/source/barcode.md:544
-#: ../../Manual/Wired-DP/source/barcode.md:617
-#: ../../Manual/Wired-DP/source/barcode.md:692
-#: ../../Manual/Wired-DP/source/barcode.md:832
-#: ../../Manual/Wired-DP/source/barcode.md:870
-#: ../../Manual/Wired-DP/source/barcode.md:906
-#: ../../Manual/Wired-DP/source/barcode.md:959
-#: ../../Manual/Wired-DP/source/barcode.md:1044
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:453
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:544
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:617
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:692
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:832
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:870
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:906
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:959
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1044
 msgid "Minimum Length Limit(0~50 Digits)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:460
-#: ../../Manual/Wired-DP/source/barcode.md:551
-#: ../../Manual/Wired-DP/source/barcode.md:624
-#: ../../Manual/Wired-DP/source/barcode.md:699
-#: ../../Manual/Wired-DP/source/barcode.md:839
-#: ../../Manual/Wired-DP/source/barcode.md:877
-#: ../../Manual/Wired-DP/source/barcode.md:913
-#: ../../Manual/Wired-DP/source/barcode.md:966
-#: ../../Manual/Wired-DP/source/barcode.md:1051
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:460
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:551
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:624
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:699
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:839
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:877
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:913
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:966
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1051
 msgid "Maximum Length Limit(0~50 Digits)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:464
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:464
 msgid "Code 39"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:495
-#: ../../Manual/Wired-DP/source/barcode.md:735
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:495
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:735
 msgid "Enable And Not Transmit"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:502
-#: ../../Manual/Wired-DP/source/barcode.md:742
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:502
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:742
 msgid "Enable And Transmit"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:505
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:505
 msgid "Code 39 Full ASCII"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:521
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:521
 msgid "Transmit Start And End Characters"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:537
-#: ../../Manual/Wired-DP/source/barcode.md:610
-#: ../../Manual/Wired-DP/source/barcode.md:685
-#: ../../Manual/Wired-DP/source/barcode.md:824
-#: ../../Manual/Wired-DP/source/barcode.md:862
-#: ../../Manual/Wired-DP/source/barcode.md:898
-#: ../../Manual/Wired-DP/source/barcode.md:951
-#: ../../Manual/Wired-DP/source/barcode.md:1037
-#: ../../Manual/Wired-DP/source/barcode.md:1125
-#: ../../Manual/Wired-DP/source/barcode.md:1160
-#: ../../Manual/Wired-DP/source/barcode.md:1195
-#: ../../Manual/Wired-DP/source/barcode.md:1230
-#: ../../Manual/Wired-DP/source/barcode.md:1267
-#: ../../Manual/Wired-DP/source/barcode.md:1303
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:537
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:610
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:685
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:824
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:862
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:898
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:951
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1037
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1125
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1160
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1195
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1230
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1267
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1303
 msgid "Length Limit Setting"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:555
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:555
 msgid "Code 32"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:557
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:557
 msgid "Convert Code 39 To Code 32 (Italian Pharmaceutical Code)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:558
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:558
 msgid "Code 32 is a variation of Code 39 used by the Italian pharmaceutical industry. Scan the appropriate bar code below to enable or disable the conversion of Code 39 to Code 32."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:574
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:574
 msgid "Code 32 Prefix"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:575
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:575
 msgid "Enabling this parameter adds the prefix character \"A\" to all Code 32 codes. Before enabling this parameter, you must convert Code 39 to Code 32 (Italian Pharmaceutical Code)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:592
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:592
 msgid "Code 93"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:628
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:628
 msgid "Code 11"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:663
-#: ../../Manual/Wired-DP/source/barcode.md:986
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:663
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:986
 msgid "Check Digit Verification"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:664
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:664
 msgid "This feature allows the scanner to check the integrity of all Code 11 symbologies to verify that the data conforms to a specified check digit algorithm. This selects the check digit mechanism for the decoded Code 11 barcode. Options include checking one check digit, checking two check digits, or disabling the feature."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:676
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:676
 msgid "One Check Digit"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:682
-#: ../../Manual/Wired-DP/source/barcode.md:999
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:682
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:999
 msgid "Two Check Digits"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:704
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:704
 msgid "Interleaved 2 of 5/ITF"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:745
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:745
 msgid "Length Selection"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:751
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:751
 msgid "Any length (4-24 Digits)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:758
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:758
 msgid "6-Digit Length"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:765
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:765
 msgid "8-Digit Length"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:772
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:772
 msgid "10-Digit Length"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:779
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:779
 msgid "12-Digit Length"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:786
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:786
 msgid "14-Digit Length"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:793
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:793
 msgid "16-Digit Length"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:800
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:800
 msgid "18-Digit Length"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:807
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:807
 msgid "20-Digit Length"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:814
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:814
 msgid "22-Digit Length"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:821
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:821
 msgid "24-Digit Length"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:843
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:843
 msgid "Industrial 2 of 5"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:880
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:880
 msgid "Matrix 2 of 5"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:917
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:917
 msgid "Codabar"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:935
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:935
 msgid "Transmit Start/End Character"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:969
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:969
 msgid "MSI/MSI Plessey"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:992
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:992
 msgid "`*` One Check Digit"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1020
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1020
 msgid "Check Digit Algorithm"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1021
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1021
 msgid "When the Two MSI Check Digits option is selected, additional verification is required to ensure integrity. Select one of the following algorithms:"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1027
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1027
 msgid "MOD 10/MOD 11"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1034
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1034
 msgid "`*` MOD 10/MOD 10"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1055
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1055
 msgid "GS1 DataBar/RSS"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1073
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1073
 msgid "GS1 DataBar Limited"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1089
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1089
 msgid "GS1 DataBar Expanded"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1106
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1106
 msgid "PDF417"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1132
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1132
 msgid "Minimum Length Limit(1~2750)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1139
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1139
 msgid "Maximum Length Limit(1~2750)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1142
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1142
 msgid "Micro PDF417"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1167
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1167
 msgid "Minimum Length Limit(1~366)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1174
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1174
 msgid "Maximum Length Limit(1~366)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1177
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1177
 msgid "QR Code"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1202
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1202
 msgid "Minimum Length Limit(1~7089)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1209
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1209
 msgid "Maximum Length Limit(1~7089)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1212
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1212
 msgid "Micro QR"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1237
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1237
 msgid "Minimum Length Limit(1~35)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1244
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1244
 msgid "Maximum Length Limit(1~35)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1249
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1249
 msgid "Data Matrix(DM)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1274
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1274
 msgid "Minimum Length Limit(1~3116)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1281
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1281
 msgid "Maximum Length Limit(1~3116)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1285
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1285
 msgid "Aztec Code"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1310
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1310
 msgid "Minimum Length Limit(1~3832)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1317
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1317
 msgid "Maximum Length Limit(1~3832)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1320
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1320
 msgid "Febraban"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1322
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1322
 msgid "Before enabling the Frbraban function, please disable the AIM ID function first."
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1325
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1325
 msgid "Enable/Disable (ITF25)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1341
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1341
 msgid "Enable/Disable (Code128)"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1357
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1357
 msgid "Code Verification"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1376
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1376
 msgid "Digital Barcode"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1383
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1383
 msgid "0"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1389
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1389
 msgid "1"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1395
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1395
 msgid "2"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1401
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1401
 msgid "3"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1407
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1407
 msgid "4"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1413
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1413
 msgid "5"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1419
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1419
 msgid "6"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1425
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1425
 msgid "7"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1431
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1431
 msgid "8"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1437
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1437
 msgid "9"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1443
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1443
 msgid "A"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1449
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1449
 msgid "B"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1455
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1455
 msgid "C"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1461
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1461
 msgid "D"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1468
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1468
 msgid "E"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1475
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1475
 msgid "F"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1482
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1482
 msgid "Cancel Current Settings"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1489
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1489
 msgid "Cancel String Of Data Read Previously"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1496
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1496
 msgid "Cancel Previous Read Data"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/barcode.md:1503
+#: ../../../Workspace/scanner-document/Wired-DP/source/barcode.md:1503
 msgid "Save"
 msgstr ""

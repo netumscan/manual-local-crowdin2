@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-29 10:14+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,61 +16,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-DP/source/scanmode.md:1
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:1
 msgid "Scan Mode"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/scanmode.md:3
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:3
 msgid "Normal Mode"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/scanmode.md:10
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:10
 msgid "`*` Normal Mode"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/scanmode.md:15
-#: ../../Manual/Wired-DP/source/scanmode.md:22
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:15
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:22
 msgid "1D Fast Scan Mode"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/scanmode.md:26
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:26
 msgid "Same Code Delay Settings"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/scanmode.md:28
-#: ../../Manual/Wired-DP/source/scanmode.md:34
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:28
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:34
 msgid "Delay 300ms"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/scanmode.md:37
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:37
 msgid "Delay 500ms"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/scanmode.md:43
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:43
 msgid "`*` Delay 500ms"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/scanmode.md:46
-#: ../../Manual/Wired-DP/source/scanmode.md:52
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:46
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:52
 msgid "Delay 750ms"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/scanmode.md:55
-#: ../../Manual/Wired-DP/source/scanmode.md:61
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:55
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:61
 msgid "Delay 1s"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/scanmode.md:64
-#: ../../Manual/Wired-DP/source/scanmode.md:70
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:64
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:70
 msgid "Delay 2s"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/scanmode.md:73
-#: ../../Manual/Wired-DP/source/scanmode.md:79
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:73
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:79
 msgid "Delay 5s"
 msgstr ""
 
-#: ../../Manual/Wired-DP/source/scanmode.md:82
-#: ../../Manual/Wired-DP/source/scanmode.md:88
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:82
+#: ../../../Workspace/scanner-document/Wired-DP/source/scanmode.md:88
 msgid "Delay 10s"
 msgstr ""

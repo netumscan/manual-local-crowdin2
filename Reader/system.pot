@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,16 +16,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Reader/source/system.md:1
+#: ../../../Workspace/scanner-document/Reader/source/system.md:1
 msgid "System Settings"
 msgstr ""
 
-#: ../../Manual/Reader/source/system.md:3
-#: ../../Manual/Reader/source/system.md:9
+#: ../../../Workspace/scanner-document/Reader/source/system.md:3
+#: ../../../Workspace/scanner-document/Reader/source/system.md:9
 msgid "Restore Default Settings"
 msgstr ""
 
-#: ../../Manual/Reader/source/system.md:12
-#: ../../Manual/Reader/source/system.md:17
+#: ../../../Workspace/scanner-document/Reader/source/system.md:12
+#: ../../../Workspace/scanner-document/Reader/source/system.md:17
 msgid "Get Firmware Version"
 msgstr ""

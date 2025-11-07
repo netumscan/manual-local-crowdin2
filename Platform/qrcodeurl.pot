@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 15:01+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,20 +16,20 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Platform/source/qrcodeurl.md:1
+#: ../../../Workspace/scanner-document/Platform/source/qrcodeurl.md:1
 msgid "QR Code URL Settings"
 msgstr ""
 
-#: ../../Manual/Platform/source/qrcodeurl.md:2
+#: ../../../Workspace/scanner-document/Platform/source/qrcodeurl.md:2
 msgid "Block scanning of URL QR codes starting with `http://`, `https://`, `www.`"
 msgstr ""
 
-#: ../../Manual/Platform/source/qrcodeurl.md:4
-#: ../../Manual/Platform/source/qrcodeurl.md:9
+#: ../../../Workspace/scanner-document/Platform/source/qrcodeurl.md:4
+#: ../../../Workspace/scanner-document/Platform/source/qrcodeurl.md:9
 msgid "Enable URL Code"
 msgstr ""
 
-#: ../../Manual/Platform/source/qrcodeurl.md:12
-#: ../../Manual/Platform/source/qrcodeurl.md:17
+#: ../../../Workspace/scanner-document/Platform/source/qrcodeurl.md:12
+#: ../../../Workspace/scanner-document/Platform/source/qrcodeurl.md:17
 msgid "Disable URL Code"
 msgstr ""

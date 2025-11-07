@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-21 08:49+0800\n"
+"POT-Creation-Date: 2025-11-07 17:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,86 +16,86 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Manual/Wired-212/source/character.md:1
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:1
 msgid "Terminator"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:3
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:3
 msgid "End Character Settings"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:4
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:4
 msgid "The end character is added after the decoded data in the format of decoded data + end character."
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:6
-#: ../../Manual/Wired-212/source/character.md:12
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:6
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:12
 msgid "No End Character"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:16
-#: ../../Manual/Wired-212/source/character.md:22
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:16
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:22
 msgid "Enter+New Line(CRLF)"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:26
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:26
 msgid "Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:32
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:32
 msgid "`*` Enter(CR)"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:36
-#: ../../Manual/Wired-212/source/character.md:42
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:36
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:42
 msgid "Tab(TAB)"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:46
-#: ../../Manual/Wired-212/source/character.md:52
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:46
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:52
 msgid "Enter+Enter(CRCR)"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:56
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:56
 msgid "Transmit Code ID Character"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:57
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:57
 msgid "A code ID character identifies the code type of a scanned bar code. This can be useful when decoding more than one code type. The code ID character is inserted between the prefix character (if selected) and the decoded symbol."
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:64
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:64
 msgid "`*` None"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:71
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:71
 msgid "AIM ID"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:78
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:78
 msgid "Code ID"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:81
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:81
 msgid "Code ID Identifiers"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:87
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:87
 msgid "AIM Code Identifiers"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:90
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:90
 msgid "Each AIM Code Identifier contains the three-character string ]cm where: <br>"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:91
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:91
 msgid "] = Flag Character"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:92
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:92
 msgid "c =Code Character (see table)"
 msgstr ""
 
-#: ../../Manual/Wired-212/source/character.md:93
+#: ../../../Workspace/scanner-document/Wired-212/source/character.md:93
 msgid "m= Modifier Character"
 msgstr ""
