@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-16 14:02+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:1
+msgid "Use MQTTs protocol to transfer data to AWS IoT"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:3
+msgid "Register your device on the AWS IoT page to obtain the client certificate and private key."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:5
+msgid "Click on [Things](https://us-east-1.console.aws.amazon.com/iot/home?region=us-east-1#/thinghub) to enter the page."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:11
+msgid "Click on `Create Things` to go to the creation page."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:17
+msgid "Click `Next` to go to Specify things properties"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:23
+msgid "After entering the Thing name, click `Next` to proceed to Configure device certificate."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:29
+msgid "Click `Next` to go to Attach policies to certificate"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:35
+msgid "Click `Create policy` to enter the Create policy page, enter a policy name, copy the content below into the JSON input box, and click `Create` to complete the creation."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:37
+msgid "Policy document"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:73
+msgid "Return to the `Attach policies to certificate` page, check the box for the policy you created, and click `Create Things` to complete the creation process."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:79
+msgid "First download the certificate and private key, then click `Done` to complete the Create Things process."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:87
+msgid "Configure Scanner"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:89
+msgid "Set MQTT mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:95
+msgid "Set MQTT Port to 8883"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:103
+msgid "Set Client Certificate"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:112
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:125
+msgid "If the QR code is too large, we recommend taking a screenshot and sending it to your phone. Then, turn your phone screen brightness to maximum before scanning it with a barcode scanner."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:116
+msgid "Set Private Key"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:128
+msgid "Configure WiFi and Broker"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:131
+msgid "After entering the corresponding WiFi information and service address, the scanner will actively connect to AWS IoT. Once the connection is successful, the green indicator light on the scanner will stay on."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:138
+msgid "MQTT test client"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:139
+msgid "Click on [MQTT test client](https://us-east-1.console.aws.amazon.com/iot/home?region=us-east-1#/test) to enter the page."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless-WiFi/source/awsiot.md:140
+msgid "After entering the topic you want to subscribe to and clicking `Subscribe`, use the barcode scanner to scan the barcode and receive the data from the scanner."
+msgstr ""

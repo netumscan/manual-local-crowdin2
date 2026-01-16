@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scanner User Manual \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-07 17:54+0800\n"
+"POT-Creation-Date: 2026-01-16 14:02+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,14 +16,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../../Workspace/scanner-document/Wired-212/source/index.md:2
-msgid "🛒Buy Now"
-msgstr ""
-
 #: ../../../Workspace/scanner-document/Wired-212/source/index.md:1
 msgid "{{ model }} Wired Scanner Quick Setup Guide"
 msgstr ""
 
-#: ../../../Workspace/scanner-document/Wired-212/source/index.md:15
+#: ../../../Workspace/scanner-document/Wired-212/source/index.md:14
 msgid "Barcode scanners are factory programmed for the most common terminal and communications settings. If you need to change these settings, programming is accomplished by scanning the bar codes in this guide. An asterisk (*) next to an option indicates the default setting."
 msgstr ""
