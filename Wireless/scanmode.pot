@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-09 10:38+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:1
+msgid "Scan Mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:3
+msgid "Key Trigger Mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:4
+msgid "Press the button to trigger scanning, and release the button to end scanning. Scanning ends when the scan is successful or the reading time exceeds the single reading time."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:11
+msgid "`*` Key Trigger Mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:14
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:21
+msgid "Continuous Mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:15
+msgid "The scanner works continuously. If the scan is successful or the scan time exceeds the single working time, the current scan ends. If the time exceeds the specified time, the next scan is automatically triggered."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:25
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:32
+msgid "Auto Sensing Mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:26
+msgid "In the auto sensing mode, the scanner will detect the brightness of the surrounding environment. When the brightness changes, the scan is triggered. The scan ends when the scan is successful or the scan time exceeds the single working time. Regardless of whether the last scan was successful or failed, the brightness of the surrounding environment will be detected again."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:35
+msgid "Same Code Delay Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:36
+msgid "To prevent the same barcode from being scanned multiple times in [Continuous Mode](#continuous-mode) and [Auto Sensing Mode](#auto-sensing-mode), you can require the scanner to wait for a set delay before allowing the same barcode to be scanned."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:38
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:44
+msgid "No Delay"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:47
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:53
+msgid "Delay 1s"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:56
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:62
+msgid "Delay 3s"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:65
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:71
+msgid "Delay 5s"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:74
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:80
+msgid "Delay 7s"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:83
+#: ../../../Workspace/scanner-document/Wireless/source/scanmode.md:89
+msgid "Infinite Delay (Disable Same Code Scanning)"
+msgstr ""

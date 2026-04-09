@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-09 10:38+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:1
+msgid "Hardware"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:3
+msgid "Image Parameter Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:4
+msgid "Auto Image Adjustment"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:11
+msgid "`*` Enable"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:19
+msgid "Disable"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:23
+msgid "Exposure Time"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:29
+msgid "100µs"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:36
+msgid "500µs"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:43
+msgid "1000µs"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:50
+msgid "3000µs"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:57
+msgid "6000µs"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:64
+msgid "10000µs"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:71
+msgid "20000µs"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:75
+msgid "Gain"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:81
+msgid "1"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:88
+msgid "32"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:95
+msgid "96"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:102
+msgid "144"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:109
+msgid "192"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:116
+msgid "255"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/hardware.md:120
+msgid "Exposure Time and Gain settings take effect only when Auto Image Adjustment is disabled."
+msgstr ""

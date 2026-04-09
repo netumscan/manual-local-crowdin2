@@ -1,0 +1,169 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-09 10:38+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:1
+msgid "System Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:3
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:10
+msgid "Restore Default Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:4
+msgid "When an unknown error occurs on the scanner, you can reset the scanner by restoring the default settings."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:14
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:20
+msgid "Get Firmware Version"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:23
+msgid "Volume Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:25
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:30
+msgid "Enable Sound"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:33
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:38
+msgid "Disable Sound"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:41
+msgid "Scan Status Indicator Light"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:47
+msgid "Success Indication"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:54
+msgid "Failure Indication"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:58
+msgid "Sighting Light"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:64
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:88
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:103
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:118
+msgid "Enable"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:71
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:95
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:110
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:125
+msgid "Disable"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:78
+msgid "Always enabled"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:81
+msgid "Illumination Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:83
+msgid "Module Illumination"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:98
+msgid "External Illumination 1"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:113
+msgid "External Illumination 2"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:128
+msgid "Illumination Switching Time"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:134
+msgid "500ms"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:141
+msgid "1000ms"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:148
+msgid "1500ms"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:155
+msgid "2000ms"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:159
+msgid "Interface Switching"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:161
+msgid "Communication Mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:167
+msgid "USB HID (Keyboard Emulation) Mode*"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:174
+msgid "USB CDC (Virtual COM Port) Mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:181
+msgid "UART Serial Mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:184
+msgid "USB Interface Version"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:190
+msgid "USB 1.1*"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:197
+msgid "USB 2.0"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:200
+msgid "Serial Port Device Discovery"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:202
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:208
+msgid "Discoverable (Serial Device)"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:211
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:217
+msgid "Not Discoverable (Serial Device)*"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/system.md:221
+msgid "This function can be used to connect the device to a host computer via serial port for debugging, but it cannot transmit images."
+msgstr ""

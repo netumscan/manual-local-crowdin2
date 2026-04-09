@@ -1,0 +1,265 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-09 10:38+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:1
+msgid "Scan Mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:3
+msgid "Key Trigger Mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:4
+msgid "Press the button to trigger scanning, and release the button to end scanning. Scanning ends when the scan is successful or the reading time exceeds the single reading time."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:11
+msgid "`*` Key Trigger Mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:14
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:21
+msgid "Continuous Mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:15
+msgid "The scanner works continuously. If the scan is successful or the scan time exceeds the single working time, the current scan ends. If the time exceeds the specified time, the next scan is automatically triggered."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:24
+msgid "Reading Interval Time"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:31
+msgid "`*` 0ms"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:38
+msgid "200ms"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:45
+msgid "500ms"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:52
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:126
+msgid "1000ms"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:59
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:110
+msgid "2000ms"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:64
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:71
+msgid "Auto Sensing Mode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:65
+msgid "In the auto sensing mode, the scanner will detect the brightness of the surrounding environment. When the brightness changes, the scan is triggered. The scan ends when the scan is successful or the scan time exceeds the single working time. Regardless of whether the last scan was successful or failed, the brightness of the surrounding environment will be detected again."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:75
+msgid "Trigger Sensitivity"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:80
+msgid "Low"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:87
+msgid "`*` Medium"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:94
+msgid "High"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:97
+msgid "Sensing Interval Time"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:103
+msgid "`*` 1000ms"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:117
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:147
+msgid "5000ms"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:120
+msgid "Sensing Timeout Time"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:133
+msgid "`*` 2000ms"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:140
+msgid "3000ms"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:150
+msgid "Repeat Time Filter Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:152
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:215
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:400
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:158
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:220
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:280
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:296
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:311
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:326
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:341
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:356
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:371
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:387
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:406
+msgid "Enable"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:165
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:227
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:287
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:303
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:318
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:333
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:348
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:363
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:378
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:394
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:413
+msgid "`*` Disable"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:168
+msgid "Filtering Time Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:174
+msgid "`*` 30"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:181
+msgid "300"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:188
+msgid "600"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:195
+msgid "1000"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:202
+msgid "2000"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:209
+msgid "5000"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:213
+msgid "Duplicate Count Filtering Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:229
+msgid "Filter Count Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:235
+msgid "1"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:242
+msgid "2"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:249
+msgid "3"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:256
+msgid "4"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:263
+msgid "5"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:270
+msgid "6"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:274
+msgid "Duplicate Barcode Filtering Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:290
+msgid "Merging Duplicate Barcodes"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:305
+msgid "Barcode Length Limit Instruction"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:320
+msgid "Block Start Setting"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:335
+msgid "Specify Start Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:350
+msgid "Specify Ending Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:365
+msgid "Must Include Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:381
+msgid "Cannot Contain Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:398
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:416
+msgid "Character Requirement Settings"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:422
+msgid "All Numbers"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:429
+msgid "All Letters"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wired-VSE/source/scanmode.md:436
+msgid "Numbers OR Letters"
+msgstr ""

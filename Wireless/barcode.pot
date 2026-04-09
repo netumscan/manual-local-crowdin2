@@ -1,0 +1,924 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, NETUM
+# This file is distributed under the same license as the Scanner User Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scanner User Manual \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-09 10:38+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1
+msgid "Symbologies"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:3
+msgid "All Symbologies"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:9
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:26
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:42
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:78
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:102
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:141
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:221
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:260
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:377
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:473
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:493
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:570
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:609
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:682
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:752
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:773
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:958
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1103
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1704
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1722
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1768
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1830
+msgid "Disable"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:16
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:33
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:49
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:71
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:86
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:91
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:165
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:187
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:210
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:284
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:303
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:325
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:348
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:365
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:402
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:419
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:441
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:464
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:516
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:538
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:561
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:596
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:632
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:705
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:833
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:849
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:864
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:879
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:898
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:915
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:931
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1018
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1092
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1160
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1176
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1194
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1243
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1259
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1278
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1293
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1309
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1362
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1377
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1393
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1447
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1498
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1516
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1532
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1589
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1658
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1695
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1791
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1853
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1899
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1917
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1937
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1985
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2003
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2019
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2034
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2050
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2103
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2120
+msgid "Enable"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:20
+msgid "1D Symbologies"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:36
+msgid "2D Symbologies"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:52
+msgid "1D Reverse Symbologies"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:55
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1735
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1797
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1943
+msgid "**Regular barcode**: Dark image on a bright background."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:56
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1736
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1798
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1944
+msgid "**Inverse barcode**: Bright image on a dark background."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:63
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:83
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:158
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:180
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:203
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:277
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:296
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:318
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:341
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:358
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:395
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:412
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:434
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:457
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:509
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:531
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:554
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:589
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:625
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:698
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:826
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:842
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:857
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:872
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:891
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:908
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:924
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1011
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1063
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1085
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1154
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1169
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1187
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1237
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1252
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1271
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1287
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1302
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1355
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1371
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1386
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1440
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1491
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1509
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1525
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1582
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1651
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1688
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1784
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1846
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1892
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1910
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1930
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1978
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1996
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2012
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2028
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2043
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2096
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2113
+msgid "`*` Disable"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:75
+msgid "Block Barcodes With URLs"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:76
+msgid "Block scanning of URL QR codes starting with `http://`, `https://`"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:94
+msgid "UPC-A"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:96
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:215
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:371
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:487
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:583
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:603
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:676
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:746
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:767
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:952
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1005
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1097
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1181
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1265
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1349
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1434
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1576
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1682
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1716
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1762
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1824
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1886
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1904
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1924
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1970
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1990
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2006
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2090
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:109
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:148
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:228
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:267
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:384
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:480
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:500
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:577
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:616
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:689
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:759
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:780
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:965
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1110
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1711
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1729
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1775
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1837
+msgid "`*` Enable"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:112
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:231
+msgid "Transmit Preamble Character"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:113
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:232
+msgid "Preamble characters (country code and system characters) can be transmitted as part of the UPC-A symbology. Select one of the following options to set and transmit a UPC-A preamble to the host: Transmit system characters only, Transmit system characters and country code (\"0\" for the United States), or Transmit no preamble."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:119
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:238
+msgid "No System Character"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:126
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:245
+msgid "`*` System Character"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:132
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:251
+msgid "System Character & Country Code"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:135
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:254
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:467
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:564
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:619
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:692
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:836
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1079
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1163
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1246
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1296
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1380
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1503
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1645
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2037
+msgid "Transmit Check Character"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:152
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:290
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:406
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:503
+msgid "2-Digit Add-On Code"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:169
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:191
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:307
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:329
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:423
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:445
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:520
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:542
+msgid "`Disable`:When the scanner scans a barcode with an additional code, it decodes the barcode and ignores the additional code. The scanner can also decode barcodes without the additional code."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:170
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:192
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:308
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:330
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:424
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:446
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:521
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:543
+msgid "`Enable`:Scanner decodes a mix of barcodes with and without add-on codes."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:173
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:311
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:427
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:524
+msgid "5-Digit Add-On Code"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:195
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:333
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:449
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:546
+msgid "Only decode barcodes with Add-On Code"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:197
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:335
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:451
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:548
+msgid "When `Enable` is selected, the scanner will only read barcodes that contain add-on codes."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:213
+msgid "UPC-E"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:270
+msgid "Convert UPC-E to UPC-A"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:287
+msgid "When `Enable` is selected,Converts UPC-E decoded data to UPC-A format. After conversion, the data follows the UPC-A format and is affected by UPC-A programming selections (e.g., preamble, check digit)."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:351
+msgid "UPC-E1 Switch"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:369
+msgid "EAN-8"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:387
+msgid "EAN-8 Extension"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:389
+msgid "When `Enable` is selected, the scanner adds five leading zeros to the decoded EAN-8 barcode to extend to 13 digits."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:485
+msgid "EAN-13"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:580
+msgid "Bookland EAN(ISBN)"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:601
+msgid "Code 128"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:635
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:708
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:783
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:968
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1021
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1112
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1196
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1312
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1396
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1450
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1592
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2053
+msgid "Set Length Range"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:636
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:709
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:784
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:969
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1022
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1113
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1197
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1313
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1397
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1451
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1593
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2054
+msgid "The length of a barcode refers to the number of characters (i.e. human-readable characters) contained in the barcode, including the check digit. The length of a barcode can be set to any length, within a specific range."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:639
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:712
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:787
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:972
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1025
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1116
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1200
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1316
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1400
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1454
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1596
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2057
+msgid "When setting lengths, single digit numbers must always be preceded by a leading zero."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:642
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:657
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:715
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:730
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:790
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:805
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:975
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:990
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1028
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1043
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1119
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1134
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1203
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1218
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1319
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1334
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1403
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1418
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1457
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1472
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1599
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1614
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2060
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2075
+msgid "Length Of Specific Range"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:643
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:716
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:791
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:976
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1029
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1120
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1204
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1320
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1404
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1458
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1600
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2061
+msgid "Allows reading of barcodes with a specific length. First scan the barcode with a length within a specific range, then scan the 4-digit setting code in the [appendix](#digital-barcode) to set the corresponding two lengths L1 and L2. L1 and L2 each occupy a two-digit setting code, and any digits less than 2 are padded with 0,setting range: 01-99."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:644
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:717
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:792
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:977
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1030
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1121
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1205
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1321
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1405
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1459
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1601
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2062
+msgid "When L1 < L2, L1 is the minimum length and L2 is the maximum length."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:645
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:718
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:793
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:978
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1031
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1122
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1206
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1322
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1406
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1460
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1602
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2063
+msgid "When L1 > L2, L1 is the maximum length and L2 is the minimum length."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:646
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:719
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:794
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:979
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1032
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1123
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1207
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1323
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1407
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1461
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1603
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2064
+msgid "When L1 = L2, only the fixed length (L1/L2) is read"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:649
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:722
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:797
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:982
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1035
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1126
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1210
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1326
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1410
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1464
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1606
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2067
+msgid "Only 4-8 characters are allowed to be read, so scan the [digital setting code](#digital-barcode) \"0\" \"4\" \"0\" \"8\" or \"0\" \"8\" \"0\" \"4\""
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:650
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:723
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:798
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:983
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1036
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1127
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1211
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1327
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1411
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1465
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1607
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2068
+msgid "To read only 12 characters, scan the [digital setting code](#digital-barcode) \"1\" \"2\" \"1\" \"2\""
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:661
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:668
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:734
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:741
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:809
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:816
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:993
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1000
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1046
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1053
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1137
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1144
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1221
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1228
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1337
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1344
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1421
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1428
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1475
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1482
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1617
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1624
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2078
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2085
+msgid "Any Length"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:662
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:735
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:810
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:994
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1047
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1138
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1222
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1338
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1422
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1476
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1618
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2079
+msgid "To read barcodes of any length, just scan any length without scanning the digital setting code. Default: 0-99"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:674
+msgid "GS1-128 (UCC/EAN-128)"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:744
+msgid "ISBT 128"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:765
+msgid "Code 39"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:819
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1056
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1147
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1231
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1281
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1365
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1485
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1627
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2022
+msgid "Check Digit Verification"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:820
+msgid "When this feature is enabled, the scanner checks the integrity of all Code 39 symbologies to verify that the data complies with the specified check digit algorithm. Only Code 39 symbologies that contain a modulo 43 check digit can be decoded."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:851
+msgid "Code 39 Full ASCII"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:866
+msgid "Transmit Start And End Characters"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:882
+msgid "Code 32"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:884
+msgid "Convert Code 39 To Code 32 (Italian Pharmaceutical Code)"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:885
+msgid "Code 32 is a variation of Code 39 used by the Italian pharmaceutical industry. Scan the appropriate bar code below to enable or disable the conversion of Code 39 to Code 32."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:901
+msgid "Code 32 Prefix"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:902
+msgid "Enabling this parameter adds the prefix character \"A\" to all Code 32 codes. Before enabling this parameter, you must convert Code 39 to Code 32 (Italian Pharmaceutical Code)"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:918
+msgid "Code 32 Checksum Verification"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:934
+msgid "Transmit Code 32 Check Digit"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:940
+msgid "`*` Transmission Check Digit"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:947
+msgid "Transmission Start Character, End Character, Check Bit"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:950
+msgid "Code 93"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1003
+msgid "Code 11"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1057
+msgid "This feature allows the scanner to check the integrity of all Code 11 symbologies to verify that the data conforms to a specified check digit algorithm. This selects the check digit mechanism for the decoded Code 11 barcode. Options include checking one check digit, checking two check digits, or disabling the feature."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1069
+msgid "One Check Digit"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1075
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1640
+msgid "Two Check Digits"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1095
+msgid "Interleaved 2 of 5/ITF"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1148
+msgid "When enabled, this parameter checks the integrity of the I 2 of 5 symbology to ensure that it complies with the specified algorithm, including USS (Uniform Symbol Specification) or OPCC (Optical Product Code Committee)."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1179
+msgid "Discrete 2 of 5/Industrial 2 of 5/IND25"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1263
+msgid "Matrix 25"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1347
+msgid "Standdard 25/IATA 25"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1432
+msgid "Codabar"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1519
+msgid "NOTIS Editing"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1535
+msgid "Start And End Character Formats"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1538
+msgid "`ABCD/ABCD` The start and end characters can be one of the following four characters: \"A\", \"B\", \"C\", \"D\";"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1539
+msgid "`ABCD/TN*E` The start character can be one of the following four characters: \"A\", \"B\", \"C\", \"D\"; the end character can be one of the following four characters: \"T\", \"N\", \"*\", \"E\"."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1547
+msgid "`*` ABCD/ABCD"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1554
+msgid "ABCD/TN*E"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1559
+msgid "Start And End Character Case"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1565
+msgid "`*` Uppercase Letter"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1572
+msgid "Lowercase Letters"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1575
+msgid "MSI/MSI Plessey"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1633
+msgid "`*` One Check Digit"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1661
+msgid "Check Digit Algorithm"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1662
+msgid "When the Two MSI Check Digits option is selected, additional verification is required to ensure integrity. Select one of the following algorithms:"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1668
+msgid "MOD 10/MOD 11"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1675
+msgid "`*` MOD 10/MOD 10"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1680
+msgid "GS1 DataBar/RSS"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1698
+msgid "RSS AI Character"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1714
+msgid "PDF417"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1732
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1794
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1856
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1940
+msgid "Regular/Inverse Decode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1743
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1805
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1867
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1951
+msgid "`*` Decode Regular Barcodes Only"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1750
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1812
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1874
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1958
+msgid "Decode Inverse Barcodes Only"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1757
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1819
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1881
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1965
+msgid "Decode Both"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1760
+msgid "QR Code"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1778
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1840
+msgid "ECI Output"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1822
+msgid "Data Matrix(DM)"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1859
+msgid "**Regular barcode**: Dark bars on a bright background."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1860
+msgid "**Inverse barcode**: Bright bars on a dark background."
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1884
+msgid "Maxi Code"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1902
+msgid "Aztec Code"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1922
+msgid "Han Xin COde"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1968
+msgid "ISSN"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1972
+msgid "Convert to EAN13 when disabled"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:1988
+msgid "NEC-25(COOP25)"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2088
+msgid "COMPOSITE"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2106
+msgid "Brazil Bank Code"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2124
+msgid "Digital Barcode"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2131
+msgid "0"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2137
+msgid "1"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2143
+msgid "2"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2149
+msgid "3"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2155
+msgid "4"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2161
+msgid "5"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2167
+msgid "6"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2173
+msgid "7"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2179
+msgid "8"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2185
+msgid "9"
+msgstr ""
+
+#: ../../../Workspace/scanner-document/Wireless/source/barcode.md:2191
+msgid "Cancel"
+msgstr ""

@@ -22,6 +22,9 @@ sphinx-build -b gettext source ../../../Document/manual-local-crowdin2/Wired-DP
 cd ../Wired-HS7
 sphinx-build -b gettext source ../../../Document/manual-local-crowdin2/Wired-HS7
 
+cd ../Wired-VSE
+sphinx-build -b gettext source ../../../Document/manual-local-crowdin2/Wired-VSE
+
 cd ../Wireless
 sphinx-build -b gettext source ../../../Document/manual-local-crowdin2/Wireless
 
